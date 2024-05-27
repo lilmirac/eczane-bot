@@ -1,0 +1,4569 @@
+{
+    "adana": [
+        {
+            "district": "aladag",
+            "lat": 37.5469138,
+            "lon": 35.3950971
+        },
+        {
+            "district": "ceyhan",
+            "lat": 37.0288825,
+            "lon": 35.8124428
+        },
+        {
+            "district": "cukurova",
+            "lat": 37.0468862,
+            "lon": 35.2823275
+        },
+        {
+            "district": "feke",
+            "lat": 37.8151789,
+            "lon": 35.9136775
+        },
+        {
+            "district": "imamoglu",
+            "lat": 37.2577128,
+            "lon": 35.6613373
+        },
+        {
+            "district": "karaisali",
+            "lat": 37.2571843,
+            "lon": 35.0586409
+        },
+        {
+            "district": "karatas",
+            "lat": 36.5646007,
+            "lon": 35.3841416
+        },
+        {
+            "district": "kozan",
+            "lat": 37.4477712,
+            "lon": 35.8167812
+        },
+        {
+            "district": "pozanti",
+            "lat": 37.42426,
+            "lon": 34.8727713
+        },
+        {
+            "district": "saimbeyli",
+            "lat": 37.9845639,
+            "lon": 36.0888261
+        },
+        {
+            "district": "saricam",
+            "lat": 37.0417013,
+            "lon": 35.490068296967486
+        },
+        {
+            "district": "seyhan",
+            "lat": 36.9863599,
+            "lon": 35.3252861
+        },
+        {
+            "district": "tufanbeyli",
+            "lat": 38.2612461,
+            "lon": 36.2202435
+        },
+        {
+            "district": "yumurtalik",
+            "lat": 36.7675867,
+            "lon": 35.7915869
+        },
+        {
+            "district": "yuregir",
+            "lat": 36.9894584,
+            "lon": 35.3408834
+        }
+    ],
+    "adiyaman": [
+        {
+            "district": "besni",
+            "lat": 37.6910896,
+            "lon": 37.8622739
+        },
+        {
+            "district": "celikhan",
+            "lat": 38.0333091,
+            "lon": 38.2423891
+        },
+        {
+            "district": "gerger",
+            "lat": 38.029339,
+            "lon": 39.0333202
+        },
+        {
+            "district": "golbasi",
+            "lat": 37.7844045,
+            "lon": 37.6395601
+        },
+        {
+            "district": "kahta",
+            "lat": 37.7860716,
+            "lon": 38.6217178
+        },
+        {
+            "district": "samsat",
+            "lat": 37.5784978,
+            "lon": 38.4809171
+        },
+        {
+            "district": "sincik",
+            "lat": 38.0291332,
+            "lon": 38.6194328
+        },
+        {
+            "district": "tut",
+            "lat": 37.7944486,
+            "lon": 37.9149485
+        }
+    ],
+    "afyonkarahisar": [
+        {
+            "district": "basmakci",
+            "lat": 37.8973577,
+            "lon": 30.0097784
+        },
+        {
+            "district": "bayat",
+            "lat": 38.9844235,
+            "lon": 30.925576
+        },
+        {
+            "district": "bolvadin",
+            "lat": 38.7115866,
+            "lon": 31.0454865
+        },
+        {
+            "district": "cay",
+            "lat": 38.5910378,
+            "lon": 31.0265129
+        },
+        {
+            "district": "cobanlar",
+            "lat": 38.7016165,
+            "lon": 30.7815226
+        },
+        {
+            "district": "dazkiri",
+            "lat": 37.9193623,
+            "lon": 29.8604496
+        },
+        {
+            "district": "dinar",
+            "lat": 38.0676295,
+            "lon": 30.1662478
+        },
+        {
+            "district": "emirdag",
+            "lat": 39.0195014,
+            "lon": 31.1502583
+        },
+        {
+            "district": "evciler",
+            "lat": 38.0417138,
+            "lon": 29.8857422
+        },
+        {
+            "district": "hocalar",
+            "lat": 38.5808125,
+            "lon": 29.9668799
+        },
+        {
+            "district": "ihsaniye",
+            "lat": 39.0319281,
+            "lon": 30.4167548
+        },
+        {
+            "district": "iscehisar",
+            "lat": 38.8620854,
+            "lon": 30.7509711
+        },
+        {
+            "district": "kiziloren",
+            "lat": 38.2578342,
+            "lon": 30.1491611
+        },
+        {
+            "district": "sandikli",
+            "lat": 38.4647643,
+            "lon": 30.272542
+        },
+        {
+            "district": "sinanpasa",
+            "lat": 38.7451878,
+            "lon": 30.2452121
+        },
+        {
+            "district": "sultandagi",
+            "lat": 38.5322614,
+            "lon": 31.229007
+        },
+        {
+            "district": "suhut",
+            "lat": 38.5339612,
+            "lon": 30.5461288
+        }
+    ],
+    "agri": [
+        {
+            "district": "diyadin",
+            "lat": 39.5397685,
+            "lon": 43.671203
+        },
+        {
+            "district": "dogubayazit",
+            "lat": 39.5483366,
+            "lon": 44.0793593
+        },
+        {
+            "district": "eleskirt",
+            "lat": 39.7983792,
+            "lon": 42.6754699
+        },
+        {
+            "district": "hamur",
+            "lat": 39.6093345,
+            "lon": 42.9882032
+        },
+        {
+            "district": "patnos",
+            "lat": 39.2334202,
+            "lon": 42.8612338
+        },
+        {
+            "district": "taslicay",
+            "lat": 39.6333304,
+            "lon": 43.3776762
+        },
+        {
+            "district": "tutak",
+            "lat": 39.5393558,
+            "lon": 42.7727501
+        }
+    ],
+    "amasya": [
+        {
+            "district": "goynucek",
+            "lat": 40.3971472,
+            "lon": 35.5236928
+        },
+        {
+            "district": "gumushacikoy",
+            "lat": 40.8736228,
+            "lon": 35.2158969
+        },
+        {
+            "district": "hamamozu",
+            "lat": 40.7831959,
+            "lon": 35.0242149
+        },
+        {
+            "district": "merzifon",
+            "lat": 40.8721392,
+            "lon": 35.4635383
+        },
+        {
+            "district": "suluova",
+            "lat": 40.8364128,
+            "lon": 35.6455569
+        },
+        {
+            "district": "tasova",
+            "lat": 40.7603491,
+            "lon": 36.321973
+        }
+    ],
+    "ankara": [
+        {
+            "district": "akyurt",
+            "lat": 40.1307529,
+            "lon": 33.0870676
+        },
+        {
+            "district": "altindag",
+            "lat": 39.9360124,
+            "lon": 32.8424903
+        },
+        {
+            "district": "ayas",
+            "lat": 40.015144,
+            "lon": 32.3324224
+        },
+        {
+            "district": "bala",
+            "lat": 39.553364,
+            "lon": 33.1237528
+        },
+        {
+            "district": "beypazari",
+            "lat": 40.1661927,
+            "lon": 31.9207632
+        },
+        {
+            "district": "camlidere",
+            "lat": 40.4914804,
+            "lon": 32.4758257
+        },
+        {
+            "district": "cankaya",
+            "lat": 39.9207759,
+            "lon": 32.8540497
+        },
+        {
+            "district": "cubuk",
+            "lat": 40.2388964,
+            "lon": 33.028947
+        },
+        {
+            "district": "elmadag",
+            "lat": 39.9173198,
+            "lon": 33.2343945
+        },
+        {
+            "district": "etimesgut",
+            "lat": 39.9489423,
+            "lon": 32.6620792
+        },
+        {
+            "district": "evren",
+            "lat": 39.0221203,
+            "lon": 33.8078573
+        },
+        {
+            "district": "golbasi",
+            "lat": 39.7925289,
+            "lon": 32.8066652
+        },
+        {
+            "district": "gudul",
+            "lat": 40.2104614,
+            "lon": 32.2432252
+        },
+        {
+            "district": "haymana",
+            "lat": 39.4332899,
+            "lon": 32.4947912
+        },
+        {
+            "district": "kahramankazan",
+            "lat": 40.2054445,
+            "lon": 32.6813148
+        },
+        {
+            "district": "kalecik",
+            "lat": 40.1038289,
+            "lon": 33.4102343
+        },
+        {
+            "district": "kecioren",
+            "lat": 39.977713,
+            "lon": 32.8669801
+        },
+        {
+            "district": "kizilcahamam",
+            "lat": 40.4701353,
+            "lon": 32.6470619
+        },
+        {
+            "district": "mamak",
+            "lat": 39.9329813,
+            "lon": 32.9082154
+        },
+        {
+            "district": "nallihan",
+            "lat": 40.188822,
+            "lon": 31.3503453
+        },
+        {
+            "district": "polatli",
+            "lat": 39.5852226,
+            "lon": 32.1436995
+        },
+        {
+            "district": "pursaklar",
+            "lat": 40.0381052,
+            "lon": 32.896908
+        },
+        {
+            "district": "sincan",
+            "lat": 39.9655078,
+            "lon": 32.5794438
+        },
+        {
+            "district": "sereflikochisar",
+            "lat": 38.9389329,
+            "lon": 33.5438843
+        },
+        {
+            "district": "yenimahalle",
+            "lat": 39.0248059,
+            "lon": 33.8043952
+        }
+    ],
+    "antalya": [
+        {
+            "district": "akseki",
+            "lat": 37.0473617,
+            "lon": 31.7908673
+        },
+        {
+            "district": "aksu",
+            "lat": 36.9475051,
+            "lon": 30.847705
+        },
+        {
+            "district": "alanya",
+            "lat": 36.8864752,
+            "lon": 30.7029585
+        },
+        {
+            "district": "demre",
+            "lat": 36.2443603,
+            "lon": 29.9875293
+        },
+        {
+            "district": "dosemealti",
+            "lat": 37.022956,
+            "lon": 30.6013333
+        },
+        {
+            "district": "elmali",
+            "lat": 36.7383786,
+            "lon": 29.9183623
+        },
+        {
+            "district": "finike",
+            "lat": 36.3046148,
+            "lon": 30.1445334
+        },
+        {
+            "district": "gazipasa",
+            "lat": 36.2682712,
+            "lon": 32.3175066
+        },
+        {
+            "district": "gundogmus",
+            "lat": 36.80994445,
+            "lon": 32.00048591347834
+        },
+        {
+            "district": "ibradi",
+            "lat": 37.0969444,
+            "lon": 31.5969351
+        },
+        {
+            "district": "kas",
+            "lat": 36.1993752,
+            "lon": 29.6413365
+        },
+        {
+            "district": "kemer",
+            "lat": 36.6013823,
+            "lon": 30.5638561
+        },
+        {
+            "district": "kepez",
+            "lat": 36.9227084,
+            "lon": 31.6166108
+        },
+        {
+            "district": "konyaalti",
+            "lat": 36.8725334,
+            "lon": 30.6503783
+        },
+        {
+            "district": "korkuteli",
+            "lat": 37.0666523,
+            "lon": 30.1970497
+        },
+        {
+            "district": "kumluca",
+            "lat": 36.3669046,
+            "lon": 30.2858418
+        },
+        {
+            "district": "manavgat",
+            "lat": 36.7870124,
+            "lon": 31.4406667
+        },
+        {
+            "district": "muratpasa",
+            "lat": 36.8864752,
+            "lon": 30.7029585
+        },
+        {
+            "district": "serik",
+            "lat": 36.9168682,
+            "lon": 31.1047478
+        }
+    ],
+    "artvin": [
+        {
+            "district": "ardanuc",
+            "lat": 41.1222881,
+            "lon": 42.0681796
+        },
+        {
+            "district": "arhavi",
+            "lat": 41.3520702,
+            "lon": 41.3093534
+        },
+        {
+            "district": "borcka",
+            "lat": 41.3602455,
+            "lon": 41.6746739
+        },
+        {
+            "district": "hopa",
+            "lat": 41.3887543,
+            "lon": 41.4181638
+        },
+        {
+            "district": "kemalpasa",
+            "lat": 41.4680678,
+            "lon": 41.5496347
+        },
+        {
+            "district": "murgul",
+            "lat": 41.2796807,
+            "lon": 41.564126
+        },
+        {
+            "district": "savsat",
+            "lat": 41.2524882,
+            "lon": 42.3568859
+        },
+        {
+            "district": "yusufeli",
+            "lat": 40.8105994,
+            "lon": 41.5242739
+        }
+    ],
+    "aydin": [
+        {
+            "district": "bozdogan",
+            "lat": 37.6739133,
+            "lon": 28.3132041
+        },
+        {
+            "district": "buharkent",
+            "lat": 37.9654749,
+            "lon": 28.7434958
+        },
+        {
+            "district": "cine",
+            "lat": 37.6124716,
+            "lon": 28.0623096
+        },
+        {
+            "district": "didim",
+            "lat": 37.3769167,
+            "lon": 27.2668129
+        },
+        {
+            "district": "efeler",
+            "lat": 37.8483767,
+            "lon": 27.8435878
+        },
+        {
+            "district": "germencik",
+            "lat": 37.8725158,
+            "lon": 27.6046766
+        },
+        {
+            "district": "incirliova",
+            "lat": 37.8537655,
+            "lon": 27.7235028
+        },
+        {
+            "district": "karacasu",
+            "lat": 37.7306842,
+            "lon": 28.6062646
+        },
+        {
+            "district": "karpuzlu",
+            "lat": 37.5590294,
+            "lon": 27.8360916
+        },
+        {
+            "district": "kocarli",
+            "lat": 37.7612979,
+            "lon": 27.705696
+        },
+        {
+            "district": "kosk",
+            "lat": 37.8532013,
+            "lon": 28.0517991
+        },
+        {
+            "district": "kusadasi",
+            "lat": 37.859645,
+            "lon": 27.2650785
+        },
+        {
+            "district": "kuyucak",
+            "lat": 37.9149191,
+            "lon": 28.4596384
+        },
+        {
+            "district": "nazilli",
+            "lat": 37.9097512,
+            "lon": 28.3242062
+        },
+        {
+            "district": "soke",
+            "lat": 37.7519762,
+            "lon": 27.4056294
+        },
+        {
+            "district": "sultanhisar",
+            "lat": 37.8900833,
+            "lon": 28.1543412
+        },
+        {
+            "district": "yenipazar",
+            "lat": 37.8232925,
+            "lon": 28.1957304
+        }
+    ],
+    "balikesir": [
+        {
+            "district": "altieylul",
+            "lat": 39.6337917,
+            "lon": 27.8902613
+        },
+        {
+            "district": "ayvalik",
+            "lat": 39.3181095,
+            "lon": 26.6916837
+        },
+        {
+            "district": "balya",
+            "lat": 39.7498649,
+            "lon": 27.5796614
+        },
+        {
+            "district": "bandirma",
+            "lat": 40.3554705,
+            "lon": 27.9697603
+        },
+        {
+            "district": "bigadic",
+            "lat": 39.391505,
+            "lon": 28.1322269
+        },
+        {
+            "district": "burhaniye",
+            "lat": 39.503059,
+            "lon": 26.9807755
+        },
+        {
+            "district": "dursunbey",
+            "lat": 39.5880141,
+            "lon": 28.6253818
+        },
+        {
+            "district": "edremit",
+            "lat": 39.597846,
+            "lon": 27.0181836
+        },
+        {
+            "district": "erdek",
+            "lat": 40.3974352,
+            "lon": 27.7909871
+        },
+        {
+            "district": "gomec",
+            "lat": 39.3900858,
+            "lon": 26.8413881
+        },
+        {
+            "district": "gonen",
+            "lat": 40.1044116,
+            "lon": 27.6563981
+        },
+        {
+            "district": "havran",
+            "lat": 39.5576221,
+            "lon": 27.1002544
+        },
+        {
+            "district": "ivrindi",
+            "lat": 39.5185374,
+            "lon": 27.43136402390129
+        },
+        {
+            "district": "karesi",
+            "lat": 39.6473917,
+            "lon": 27.8879787
+        },
+        {
+            "district": "kepsut",
+            "lat": 39.6898687,
+            "lon": 28.1528838
+        },
+        {
+            "district": "manyas",
+            "lat": 40.0476916,
+            "lon": 27.9679904
+        },
+        {
+            "district": "marmara",
+            "lat": 40.62164065,
+            "lon": 27.629427220927305
+        },
+        {
+            "district": "savastepe",
+            "lat": 39.3855971,
+            "lon": 27.6559932
+        },
+        {
+            "district": "sindirgi",
+            "lat": 39.2387054,
+            "lon": 28.1749129
+        },
+        {
+            "district": "susurluk",
+            "lat": 39.9143547,
+            "lon": 28.1577096
+        }
+    ],
+    "bilecik": [
+        {
+            "district": "bozuyuk",
+            "lat": 39.9065377,
+            "lon": 30.0505886
+        },
+        {
+            "district": "golpazari",
+            "lat": 40.2839365,
+            "lon": 30.3165356
+        },
+        {
+            "district": "inhisar",
+            "lat": 40.0502928,
+            "lon": 30.3848455
+        },
+        {
+            "district": "osmaneli",
+            "lat": 40.357266,
+            "lon": 30.0162928
+        },
+        {
+            "district": "pazaryeri",
+            "lat": 39.9954056,
+            "lon": 29.9031259
+        },
+        {
+            "district": "sogut",
+            "lat": 40.0175089,
+            "lon": 30.1836088
+        },
+        {
+            "district": "yenipazar",
+            "lat": 40.1766829,
+            "lon": 30.5190761
+        }
+    ],
+    "bingol": [
+        {
+            "district": "adakli",
+            "lat": 39.2285335,
+            "lon": 40.4826578
+        },
+        {
+            "district": "genc",
+            "lat": 38.7947491,
+            "lon": 41.0520337
+        },
+        {
+            "district": "karliova",
+            "lat": 39.2945998,
+            "lon": 41.0102383
+        },
+        {
+            "district": "kigi",
+            "lat": 39.36940525,
+            "lon": 40.35066512533662
+        },
+        {
+            "district": "solhan",
+            "lat": 38.9659351,
+            "lon": 41.0518147
+        },
+        {
+            "district": "yayladere",
+            "lat": 39.2275134,
+            "lon": 40.0685835
+        },
+        {
+            "district": "yedisu",
+            "lat": 39.434076,
+            "lon": 40.5449772
+        }
+    ],
+    "bitlis": [
+        {
+            "district": "adilcevaz",
+            "lat": 38.8043058,
+            "lon": 42.7346369
+        },
+        {
+            "district": "ahlat",
+            "lat": 38.7546534,
+            "lon": 42.4833266
+        },
+        {
+            "district": "guroymak",
+            "lat": 38.574172,
+            "lon": 42.0253272
+        },
+        {
+            "district": "hizan",
+            "lat": 38.2250087,
+            "lon": 42.4263243
+        },
+        {
+            "district": "mutki",
+            "lat": 38.4089737,
+            "lon": 41.9219414
+        },
+        {
+            "district": "tatvan",
+            "lat": 38.4931961,
+            "lon": 42.2878112
+        }
+    ],
+    "bolu": [
+        {
+            "district": "dortdivan",
+            "lat": 40.7206449,
+            "lon": 32.0625984
+        },
+        {
+            "district": "gerede",
+            "lat": 40.7987548,
+            "lon": 32.2009075
+        },
+        {
+            "district": "goynuk",
+            "lat": 40.3983169,
+            "lon": 30.7866167
+        },
+        {
+            "district": "kibriscik",
+            "lat": 40.4087948,
+            "lon": 31.8487176
+        },
+        {
+            "district": "mengen",
+            "lat": 40.939476,
+            "lon": 32.0756763
+        },
+        {
+            "district": "mudurnu",
+            "lat": 40.4656959,
+            "lon": 31.2112312
+        },
+        {
+            "district": "seben",
+            "lat": 40.4085088,
+            "lon": 31.5713451
+        },
+        {
+            "district": "yenicaga",
+            "lat": 40.7703852,
+            "lon": 32.0336407
+        }
+    ],
+    "burdur": [
+        {
+            "district": "aglasun",
+            "lat": 37.6496612,
+            "lon": 30.5331918
+        },
+        {
+            "district": "altinyayla",
+            "lat": 36.9961788,
+            "lon": 29.5467695
+        },
+        {
+            "district": "bucak",
+            "lat": 37.4567447,
+            "lon": 30.5855392
+        },
+        {
+            "district": "cavdir",
+            "lat": 37.154989,
+            "lon": 29.6900028
+        },
+        {
+            "district": "celtikci",
+            "lat": 37.533798,
+            "lon": 30.4826059
+        },
+        {
+            "district": "golhisar",
+            "lat": 37.1512806,
+            "lon": 29.5110916
+        },
+        {
+            "district": "karamanli",
+            "lat": 37.3709275,
+            "lon": 29.8225951
+        },
+        {
+            "district": "kemer",
+            "lat": 37.3538953,
+            "lon": 30.06113
+        },
+        {
+            "district": "tefenni",
+            "lat": 37.3132492,
+            "lon": 29.7759765
+        },
+        {
+            "district": "yesilova",
+            "lat": 37.5064376,
+            "lon": 29.7552378
+        }
+    ],
+    "bursa": [
+        {
+            "district": "buyukorhan",
+            "lat": 39.770909,
+            "lon": 28.88541
+        },
+        {
+            "district": "gemlik",
+            "lat": 40.4301652,
+            "lon": 29.1570698
+        },
+        {
+            "district": "gursu",
+            "lat": 40.2175842,
+            "lon": 29.1935635
+        },
+        {
+            "district": "harmancik",
+            "lat": 39.6769481,
+            "lon": 29.1543321
+        },
+        {
+            "district": "inegol",
+            "lat": 40.0800359,
+            "lon": 29.5096528
+        },
+        {
+            "district": "iznik",
+            "lat": 40.4303445,
+            "lon": 29.7223732
+        },
+        {
+            "district": "karacabey",
+            "lat": 40.2127591,
+            "lon": 28.361454
+        },
+        {
+            "district": "keles",
+            "lat": 39.9128869,
+            "lon": 29.2341651
+        },
+        {
+            "district": "kestel",
+            "lat": 40.2007544,
+            "lon": 29.2128704
+        },
+        {
+            "district": "mudanya",
+            "lat": 40.3752582,
+            "lon": 28.8837929
+        },
+        {
+            "district": "mustafakemalpasa",
+            "lat": 40.0350725,
+            "lon": 28.4132778
+        },
+        {
+            "district": "nilufer",
+            "lat": 40.2129489,
+            "lon": 28.9627863
+        },
+        {
+            "district": "orhaneli",
+            "lat": 39.9026561,
+            "lon": 28.9866861
+        },
+        {
+            "district": "orhangazi",
+            "lat": 40.4921219,
+            "lon": 29.3081543
+        },
+        {
+            "district": "osmangazi",
+            "lat": 40.182737,
+            "lon": 29.0675481
+        },
+        {
+            "district": "yenisehir",
+            "lat": 40.2626316,
+            "lon": 29.6521948
+        },
+        {
+            "district": "yildirim",
+            "lat": 40.1900988,
+            "lon": 29.097653
+        }
+    ],
+    "canakkale": [
+        {
+            "district": "ayvacik",
+            "lat": 39.601185,
+            "lon": 26.4031312
+        },
+        {
+            "district": "bayramic",
+            "lat": 39.8086241,
+            "lon": 26.6130041
+        },
+        {
+            "district": "biga",
+            "lat": 40.2269793,
+            "lon": 27.2428365
+        },
+        {
+            "district": "bozcaada",
+            "lat": 39.817052399999994,
+            "lon": 26.03954663526178
+        },
+        {
+            "district": "can",
+            "lat": 40.0289459,
+            "lon": 27.0511631
+        },
+        {
+            "district": "eceabat",
+            "lat": 40.1852143,
+            "lon": 26.3590969
+        },
+        {
+            "district": "ezine",
+            "lat": 39.80194375000001,
+            "lon": 26.304249777300804
+        },
+        {
+            "district": "gelibolu",
+            "lat": 40.4054063,
+            "lon": 26.6722539
+        },
+        {
+            "district": "gokceada",
+            "lat": 40.2003874,
+            "lon": 25.9084625
+        },
+        {
+            "district": "lapseki",
+            "lat": 40.3443674,
+            "lon": 26.6845975
+        },
+        {
+            "district": "yenice",
+            "lat": 39.9297524,
+            "lon": 27.2555358
+        }
+    ],
+    "cankiri": [
+        {
+            "district": "atkaracalar",
+            "lat": 40.8161362,
+            "lon": 33.0753942
+        },
+        {
+            "district": "bayramoren",
+            "lat": 40.943071,
+            "lon": 33.2039568
+        },
+        {
+            "district": "cerkes",
+            "lat": 40.8116807,
+            "lon": 32.893388
+        },
+        {
+            "district": "eldivan",
+            "lat": 40.5306791,
+            "lon": 33.4966173
+        },
+        {
+            "district": "ilgaz",
+            "lat": 40.924887,
+            "lon": 33.6253409
+        },
+        {
+            "district": "kizilirmak",
+            "lat": 40.3459757,
+            "lon": 33.987241
+        },
+        {
+            "district": "korgun",
+            "lat": 40.7348367,
+            "lon": 33.5184877
+        },
+        {
+            "district": "kursunlu",
+            "lat": 40.840725,
+            "lon": 33.2613479
+        },
+        {
+            "district": "orta",
+            "lat": 40.6270258,
+            "lon": 33.1077491
+        },
+        {
+            "district": "sabanozu",
+            "lat": 40.4831599,
+            "lon": 33.2826151
+        },
+        {
+            "district": "yaprakli",
+            "lat": 40.7575973,
+            "lon": 33.7786302
+        }
+    ],
+    "corum": [
+        {
+            "district": "alaca",
+            "lat": 40.1690118,
+            "lon": 34.8414772
+        },
+        {
+            "district": "bayat",
+            "lat": 40.5789741,
+            "lon": 34.926489
+        },
+        {
+            "district": "bogazkale",
+            "lat": 40.0215368,
+            "lon": 34.6092255
+        },
+        {
+            "district": "dodurga",
+            "lat": 40.8553068,
+            "lon": 34.8103307
+        },
+        {
+            "district": "iskilip",
+            "lat": 40.7306912,
+            "lon": 34.4710113
+        },
+        {
+            "district": "kargi",
+            "lat": 41.1327497,
+            "lon": 34.4912238
+        },
+        {
+            "district": "lacin",
+            "lat": 40.7738012,
+            "lon": 34.8843532
+        },
+        {
+            "district": "mecitozu",
+            "lat": 40.5205856,
+            "lon": 35.2953447
+        },
+        {
+            "district": "oguzlar",
+            "lat": 40.7533702,
+            "lon": 34.7043298
+        },
+        {
+            "district": "ortakoy",
+            "lat": 40.3517153,
+            "lon": 34.4028776
+        },
+        {
+            "district": "osmancik",
+            "lat": 40.9780582,
+            "lon": 34.8062245
+        },
+        {
+            "district": "sungurlu",
+            "lat": 40.1652438,
+            "lon": 34.3787827
+        },
+        {
+            "district": "ugurludag",
+            "lat": 40.4463082,
+            "lon": 34.4524895
+        }
+    ],
+    "denizli": [
+        {
+            "district": "acipayam",
+            "lat": 37.4273777,
+            "lon": 29.3505097
+        },
+        {
+            "district": "babadag",
+            "lat": 37.8077123,
+            "lon": 28.856383
+        },
+        {
+            "district": "baklan",
+            "lat": 37.9767511,
+            "lon": 29.6066569
+        },
+        {
+            "district": "bekilli",
+            "lat": 38.2294869,
+            "lon": 29.4208248
+        },
+        {
+            "district": "buldan",
+            "lat": 38.0442443,
+            "lon": 28.8326718
+        },
+        {
+            "district": "cal",
+            "lat": 38.0813509,
+            "lon": 29.397294
+        },
+        {
+            "district": "cameli",
+            "lat": 37.0761111,
+            "lon": 29.3447222
+        },
+        {
+            "district": "cardak",
+            "lat": 37.8275504,
+            "lon": 29.6733942
+        },
+        {
+            "district": "civril",
+            "lat": 38.3005877,
+            "lon": 29.7373813
+        },
+        {
+            "district": "guney",
+            "lat": 37.2450584,
+            "lon": 29.2526158
+        },
+        {
+            "district": "honaz",
+            "lat": 37.752386,
+            "lon": 29.2696961
+        },
+        {
+            "district": "kale",
+            "lat": 37.4437871,
+            "lon": 28.8463079
+        },
+        {
+            "district": "saraykoy",
+            "lat": 37.9244344,
+            "lon": 28.9230836
+        },
+        {
+            "district": "servergazi",
+            "lat": 37.7464966,
+            "lon": 29.0499905
+        },
+        {
+            "district": "tavas",
+            "lat": 37.5729263,
+            "lon": 29.0712601
+        }
+    ],
+    "diyarbakir": [
+        {
+            "district": "baglar",
+            "lat": 37.9173215,
+            "lon": 40.2082907
+        },
+        {
+            "district": "bismil",
+            "lat": 37.8481232,
+            "lon": 40.6634404
+        },
+        {
+            "district": "cermik",
+            "lat": 38.1354868,
+            "lon": 39.449684
+        },
+        {
+            "district": "cinar",
+            "lat": 37.7236768,
+            "lon": 40.4151087
+        },
+        {
+            "district": "cungus",
+            "lat": 38.2120836,
+            "lon": 39.2879838
+        },
+        {
+            "district": "dicle",
+            "lat": 37.8422537,
+            "lon": 40.6643454
+        },
+        {
+            "district": "egil",
+            "lat": 38.2575529,
+            "lon": 40.0845198
+        },
+        {
+            "district": "ergani",
+            "lat": 38.2689763,
+            "lon": 39.7609219
+        },
+        {
+            "district": "hani",
+            "lat": 38.4115674,
+            "lon": 40.3951417
+        },
+        {
+            "district": "hazro",
+            "lat": 38.2538296,
+            "lon": 40.7808527
+        },
+        {
+            "district": "kayapinar",
+            "lat": 37.9437832,
+            "lon": 40.1845788
+        },
+        {
+            "district": "kocakoy",
+            "lat": 38.2905722,
+            "lon": 40.5043476
+        },
+        {
+            "district": "kulp",
+            "lat": 38.5003825,
+            "lon": 41.0120269
+        },
+        {
+            "district": "lice",
+            "lat": 38.4603127,
+            "lon": 40.6476876
+        },
+        {
+            "district": "silvan",
+            "lat": 38.1411514,
+            "lon": 41.0056103
+        },
+        {
+            "district": "sur",
+            "lat": 37.9162222,
+            "lon": 40.2363542
+        },
+        {
+            "district": "yenisehir",
+            "lat": 38.2593202,
+            "lon": 40.0843048
+        }
+    ],
+    "duzce": [
+        {
+            "district": "akcakoca",
+            "lat": 41.0882278,
+            "lon": 31.1239833
+        },
+        {
+            "district": "cumayeri",
+            "lat": 40.8746889,
+            "lon": 30.9504143
+        },
+        {
+            "district": "golyaka",
+            "lat": 40.7767185,
+            "lon": 30.9964407
+        },
+        {
+            "district": "gumusova",
+            "lat": 40.8465766,
+            "lon": 30.9386008
+        },
+        {
+            "district": "kaynasli",
+            "lat": 40.7720977,
+            "lon": 31.3192011
+        },
+        {
+            "district": "yigilca",
+            "lat": 40.9599811,
+            "lon": 31.4442949
+        }
+    ],
+    "edirne": [
+        {
+            "district": "enez",
+            "lat": 40.725028,
+            "lon": 26.0845671
+        },
+        {
+            "district": "havsa",
+            "lat": 41.5493038,
+            "lon": 26.8205643
+        },
+        {
+            "district": "ipsala",
+            "lat": 40.9217064,
+            "lon": 26.3839845
+        },
+        {
+            "district": "kesan",
+            "lat": 40.8548793,
+            "lon": 26.6303057
+        },
+        {
+            "district": "lalapasa",
+            "lat": 41.8390388,
+            "lon": 26.7361017
+        },
+        {
+            "district": "meric",
+            "lat": 41.6672138,
+            "lon": 26.5087258
+        },
+        {
+            "district": "uzunkopru",
+            "lat": 41.2775715,
+            "lon": 26.675132
+        },
+        {
+            "district": "_suloglu",
+            "lat": 41.7656982,
+            "lon": 26.9080072
+        }
+    ],
+    "elazig": [
+        {
+            "district": "agin",
+            "lat": 38.9171844,
+            "lon": 38.6646341
+        },
+        {
+            "district": "alacakaya",
+            "lat": 38.4621679,
+            "lon": 39.8625233
+        },
+        {
+            "district": "aricak",
+            "lat": 38.5634309,
+            "lon": 40.134504
+        },
+        {
+            "district": "baskil",
+            "lat": 38.5676802,
+            "lon": 38.8232458
+        },
+        {
+            "district": "karakocan",
+            "lat": 38.9564458,
+            "lon": 40.0380269
+        },
+        {
+            "district": "keban",
+            "lat": 38.7939859,
+            "lon": 38.7397153
+        },
+        {
+            "district": "kovancilar",
+            "lat": 38.7189254,
+            "lon": 39.8659125
+        },
+        {
+            "district": "maden",
+            "lat": 38.3932271,
+            "lon": 39.6702313
+        },
+        {
+            "district": "palu",
+            "lat": 38.6934846,
+            "lon": 39.9288811
+        },
+        {
+            "district": "sivrice",
+            "lat": 38.4474169,
+            "lon": 39.3082646
+        }
+    ],
+    "erzincan": [
+        {
+            "district": "cayirli",
+            "lat": 39.8040818,
+            "lon": 40.0371836
+        },
+        {
+            "district": "ilic",
+            "lat": 39.4565909,
+            "lon": 38.5647141
+        },
+        {
+            "district": "kemah",
+            "lat": 39.6017666,
+            "lon": 39.0350069
+        },
+        {
+            "district": "kemaliye",
+            "lat": 39.2620966,
+            "lon": 38.4965266
+        },
+        {
+            "district": "otlukbeli",
+            "lat": 39.9719481,
+            "lon": 40.0216762
+        },
+        {
+            "district": "refahiye",
+            "lat": 39.9027528,
+            "lon": 38.7681749
+        },
+        {
+            "district": "tercan",
+            "lat": 39.7776532,
+            "lon": 40.3835644
+        },
+        {
+            "district": "uzumlu",
+            "lat": 39.7101148,
+            "lon": 39.7010311
+        }
+    ],
+    "erzurum": [
+        {
+            "district": "aziziye",
+            "lat": 39.9454672,
+            "lon": 41.1060051
+        },
+        {
+            "district": "cat",
+            "lat": 39.65728225,
+            "lon": 41.02172556172913
+        },
+        {
+            "district": "hinis",
+            "lat": 39.3584857,
+            "lon": 41.7003273
+        },
+        {
+            "district": "horasan",
+            "lat": 40.0400073,
+            "lon": 42.1690102
+        },
+        {
+            "district": "ispir",
+            "lat": 40.4833781,
+            "lon": 40.9999611
+        },
+        {
+            "district": "karacoban",
+            "lat": 39.35049,
+            "lon": 42.1116256
+        },
+        {
+            "district": "karayazi",
+            "lat": 39.7016735,
+            "lon": 42.1431214
+        },
+        {
+            "district": "koprukoy",
+            "lat": 40.4295551,
+            "lon": 40.9783053
+        },
+        {
+            "district": "narman",
+            "lat": 40.3452003,
+            "lon": 41.871138
+        },
+        {
+            "district": "oltu",
+            "lat": 40.5459405,
+            "lon": 41.9959769
+        },
+        {
+            "district": "olur",
+            "lat": 40.8268691,
+            "lon": 42.1330799
+        },
+        {
+            "district": "pasinler",
+            "lat": 39.9773129,
+            "lon": 41.674491
+        },
+        {
+            "district": "pazaryolu",
+            "lat": 40.414251,
+            "lon": 40.7735708
+        },
+        {
+            "district": "palandoken",
+            "lat": 39.8869983,
+            "lon": 41.2705934
+        },
+        {
+            "district": "senkaya",
+            "lat": 40.5611411,
+            "lon": 42.3452549
+        },
+        {
+            "district": "tekman",
+            "lat": 39.6463529,
+            "lon": 41.5088424
+        },
+        {
+            "district": "tortum",
+            "lat": 40.2970821,
+            "lon": 41.5508252
+        },
+        {
+            "district": "uzundere",
+            "lat": 40.5234571,
+            "lon": 41.5585772
+        },
+        {
+            "district": "yakutiye",
+            "lat": 39.90632,
+            "lon": 41.2727715
+        }
+    ],
+    "eskisehir": [
+        {
+            "district": "alpu",
+            "lat": 39.7658755,
+            "lon": 30.9583834
+        },
+        {
+            "district": "beylikova",
+            "lat": 39.6922233,
+            "lon": 31.2075631
+        },
+        {
+            "district": "cifteler",
+            "lat": 39.3757408,
+            "lon": 31.0378663
+        },
+        {
+            "district": "gunyuzu",
+            "lat": 39.3842744,
+            "lon": 31.8096766
+        },
+        {
+            "district": "han",
+            "lat": 39.1584322,
+            "lon": 30.8634395
+        },
+        {
+            "district": "inonu",
+            "lat": 39.8160441,
+            "lon": 30.1427534
+        },
+        {
+            "district": "mahmudiye",
+            "lat": 39.4947036,
+            "lon": 30.9875511
+        },
+        {
+            "district": "mihalgazi",
+            "lat": 40.0263907,
+            "lon": 30.5782251
+        },
+        {
+            "district": "mihaliccik",
+            "lat": 39.8666422,
+            "lon": 31.4960719
+        },
+        {
+            "district": "odunpazari",
+            "lat": 39.7743941,
+            "lon": 30.519116
+        },
+        {
+            "district": "saricakaya",
+            "lat": 40.0389485,
+            "lon": 30.6189477
+        },
+        {
+            "district": "seyitgazi",
+            "lat": 39.4443218,
+            "lon": 30.6960183
+        },
+        {
+            "district": "sivrihisar",
+            "lat": 39.4510335,
+            "lon": 31.5367967
+        },
+        {
+            "district": "tepebasi",
+            "lat": 39.779774,
+            "lon": 30.5058458
+        }
+    ],
+    "gaziantep": [
+        {
+            "district": "araban",
+            "lat": 37.4252863,
+            "lon": 37.6894188
+        },
+        {
+            "district": "islahiye",
+            "lat": 37.025109,
+            "lon": 36.6331302
+        },
+        {
+            "district": "karkamis",
+            "lat": 36.82947115,
+            "lon": 38.015398741406926
+        },
+        {
+            "district": "nizip",
+            "lat": 37.0101095,
+            "lon": 37.7971978
+        },
+        {
+            "district": "nurdagi",
+            "lat": 37.1779131,
+            "lon": 36.7409447
+        },
+        {
+            "district": "oguzeli",
+            "lat": 36.9654263,
+            "lon": 37.5106885
+        },
+        {
+            "district": "sahinbey",
+            "lat": 37.0628317,
+            "lon": 37.3792617
+        },
+        {
+            "district": "sehitkamil",
+            "lat": 37.0727587,
+            "lon": 37.3949769
+        },
+        {
+            "district": "yavuzeli",
+            "lat": 37.3167946,
+            "lon": 37.5668762
+        }
+    ],
+    "giresun": [
+        {
+            "district": "alucra",
+            "lat": 40.3200589,
+            "lon": 38.764199
+        },
+        {
+            "district": "bulancak",
+            "lat": 40.9389231,
+            "lon": 38.2318776
+        },
+        {
+            "district": "camoluk",
+            "lat": 40.1445797,
+            "lon": 38.71921640651733
+        },
+        {
+            "district": "canakci",
+            "lat": 40.9169922,
+            "lon": 39.0093156
+        },
+        {
+            "district": "dereli",
+            "lat": 40.7390401,
+            "lon": 38.4491316
+        },
+        {
+            "district": "dogankent",
+            "lat": 40.8065239,
+            "lon": 38.9178679
+        },
+        {
+            "district": "espiye",
+            "lat": 40.9488641,
+            "lon": 38.7125213
+        },
+        {
+            "district": "eynesil",
+            "lat": 41.0646879,
+            "lon": 39.1434047
+        },
+        {
+            "district": "gorele",
+            "lat": 41.0335207,
+            "lon": 38.998624
+        },
+        {
+            "district": "guce",
+            "lat": 40.8940305,
+            "lon": 38.8080266
+        },
+        {
+            "district": "kesap",
+            "lat": 40.9151484,
+            "lon": 38.5138559
+        },
+        {
+            "district": "piraziz",
+            "lat": 40.9525735,
+            "lon": 38.124757
+        },
+        {
+            "district": "sebinkarahisar",
+            "lat": 40.2886007,
+            "lon": 38.4236116
+        },
+        {
+            "district": "tirebolu",
+            "lat": 41.0072009,
+            "lon": 38.8146309
+        },
+        {
+            "district": "yaglidere",
+            "lat": 40.8605351,
+            "lon": 38.6251583
+        }
+    ],
+    "gumushane": [
+        {
+            "district": "kelkit",
+            "lat": 40.1312372,
+            "lon": 39.4360384
+        },
+        {
+            "district": "kose",
+            "lat": 40.2097298,
+            "lon": 39.6530012
+        },
+        {
+            "district": "kurtun",
+            "lat": 40.7018638,
+            "lon": 39.0857106
+        },
+        {
+            "district": "siran",
+            "lat": 40.1898258,
+            "lon": 39.1252323
+        },
+        {
+            "district": "torul",
+            "lat": 40.557658,
+            "lon": 39.2926361
+        }
+    ],
+    "hakkari": [
+        {
+            "district": "cukurca",
+            "lat": 37.246423,
+            "lon": 43.6112852
+        },
+        {
+            "district": "derecik",
+            "lat": 37.0812795,
+            "lon": 44.3119308
+        },
+        {
+            "district": "semdinli",
+            "lat": 37.3060554,
+            "lon": 44.5735617
+        },
+        {
+            "district": "yuksekova",
+            "lat": 37.5717687,
+            "lon": 44.2821698
+        }
+    ],
+    "hatay": [
+        {
+            "district": "altinozu",
+            "lat": 36.185693,
+            "lon": 36.36582489239463
+        },
+        {
+            "district": "antakya",
+            "lat": 36.2036546,
+            "lon": 36.1637648
+        },
+        {
+            "district": "arsuz",
+            "lat": 36.4125694,
+            "lon": 35.8865358
+        },
+        {
+            "district": "belen",
+            "lat": 36.4916742,
+            "lon": 36.1944459
+        },
+        {
+            "district": "defne",
+            "lat": 36.1454169,
+            "lon": 36.1415726
+        },
+        {
+            "district": "dortyol",
+            "lat": 36.8371017,
+            "lon": 36.2274002
+        },
+        {
+            "district": "erzin",
+            "lat": 36.9558796,
+            "lon": 36.199108
+        },
+        {
+            "district": "hassa",
+            "lat": 36.8001098,
+            "lon": 36.5172243
+        },
+        {
+            "district": "iskenderun",
+            "lat": 36.5902266,
+            "lon": 36.1710354
+        },
+        {
+            "district": "kirikhan",
+            "lat": 36.4989553,
+            "lon": 36.3621728
+        },
+        {
+            "district": "kumlu",
+            "lat": 36.3647906,
+            "lon": 36.4540903
+        },
+        {
+            "district": "payas",
+            "lat": 36.7559322,
+            "lon": 36.2151957
+        },
+        {
+            "district": "reyhanli",
+            "lat": 36.2684483,
+            "lon": 36.5672311
+        },
+        {
+            "district": "samandag",
+            "lat": 36.0851597,
+            "lon": 35.9799375
+        },
+        {
+            "district": "yayladagi",
+            "lat": 35.9029545,
+            "lon": 36.0625987
+        }
+    ],
+    "igdir": [
+        {
+            "district": "aralik",
+            "lat": 39.873699,
+            "lon": 44.5160371
+        },
+        {
+            "district": "karakoyunlu",
+            "lat": 39.9711462,
+            "lon": 44.1736563
+        },
+        {
+            "district": "tuzluca",
+            "lat": 40.0402158,
+            "lon": 43.6637878
+        }
+    ],
+    "isparta": [
+        {
+            "district": "aksu",
+            "lat": 37.7988945,
+            "lon": 31.0711111
+        },
+        {
+            "district": "atabey",
+            "lat": 37.9509348,
+            "lon": 30.6374073
+        },
+        {
+            "district": "egirdir",
+            "lat": 37.8741257,
+            "lon": 30.8490411
+        },
+        {
+            "district": "gelendost",
+            "lat": 38.1214712,
+            "lon": 31.0137107
+        },
+        {
+            "district": "gonen",
+            "lat": 37.9575448,
+            "lon": 30.5128626
+        },
+        {
+            "district": "keciborlu",
+            "lat": 37.9448799,
+            "lon": 30.3003582
+        },
+        {
+            "district": "sarkikaraagac",
+            "lat": 38.080712,
+            "lon": 31.3660929
+        },
+        {
+            "district": "senirkent",
+            "lat": 38.107803,
+            "lon": 30.5503493
+        },
+        {
+            "district": "sutculer",
+            "lat": 37.4949942,
+            "lon": 30.9805605
+        },
+        {
+            "district": "uluborlu",
+            "lat": 38.0787411,
+            "lon": 30.4491758
+        },
+        {
+            "district": "yalvac",
+            "lat": 38.2994784,
+            "lon": 31.1759426
+        },
+        {
+            "district": "yenisarbademli",
+            "lat": 37.7075326,
+            "lon": 31.3882307
+        }
+    ],
+    "istanbul": [
+        {
+            "district": "adalar",
+            "lat": 40.8741659,
+            "lon": 29.1293251
+        },
+        {
+            "district": "arnavutkoy",
+            "lat": 41.0683942,
+            "lon": 29.0411538
+        },
+        {
+            "district": "atasehir",
+            "lat": 40.9929379,
+            "lon": 29.1135187
+        },
+        {
+            "district": "avcilar",
+            "lat": 40.9799389,
+            "lon": 28.7216689
+        },
+        {
+            "district": "bagcilar",
+            "lat": 41.034547,
+            "lon": 28.8567558
+        },
+        {
+            "district": "bahcelievler",
+            "lat": 40.8839106,
+            "lon": 29.2353786
+        },
+        {
+            "district": "bakirkoy",
+            "lat": 40.9782585,
+            "lon": 28.8744461
+        },
+        {
+            "district": "bayrampasa",
+            "lat": 41.0345549,
+            "lon": 28.9118417
+        },
+        {
+            "district": "besiktas",
+            "lat": 41.0428465,
+            "lon": 29.0075283
+        },
+        {
+            "district": "beykoz",
+            "lat": 41.1343001,
+            "lon": 29.0920378
+        },
+        {
+            "district": "beylikduzu",
+            "lat": 41.0037541,
+            "lon": 28.6372583
+        },
+        {
+            "district": "beyoglu",
+            "lat": 41.0284233,
+            "lon": 28.9736808
+        },
+        {
+            "district": "buyukcekmece",
+            "lat": 41.021654,
+            "lon": 28.579757
+        },
+        {
+            "district": "catalca",
+            "lat": 41.1436804,
+            "lon": 28.4605154
+        },
+        {
+            "district": "cekmekoy",
+            "lat": 41.0351579,
+            "lon": 29.1739149
+        },
+        {
+            "district": "esenler",
+            "lat": 41.0376175,
+            "lon": 28.8824519
+        },
+        {
+            "district": "esenyurt",
+            "lat": 41.0342862,
+            "lon": 28.6801113
+        },
+        {
+            "district": "eyupsultan",
+            "lat": 41.0478358,
+            "lon": 28.9327383
+        },
+        {
+            "district": "fatih",
+            "lat": 41.006381,
+            "lon": 28.9758715
+        },
+        {
+            "district": "gaziosmanpasa",
+            "lat": 41.0578305,
+            "lon": 28.9122452
+        },
+        {
+            "district": "gungoren",
+            "lat": 41.0252832,
+            "lon": 28.8726498
+        },
+        {
+            "district": "kadikoy",
+            "lat": 40.990992,
+            "lon": 29.0254305
+        },
+        {
+            "district": "kagithane",
+            "lat": 41.0812087,
+            "lon": 28.9730151
+        },
+        {
+            "district": "kartal",
+            "lat": 40.88858,
+            "lon": 29.1856536
+        },
+        {
+            "district": "kucukcekmece",
+            "lat": 40.9918737,
+            "lon": 28.7711956
+        },
+        {
+            "district": "maltepe",
+            "lat": 40.9247539,
+            "lon": 29.1310782
+        },
+        {
+            "district": "pendik",
+            "lat": 40.8768715,
+            "lon": 29.2349672
+        },
+        {
+            "district": "sancaktepe",
+            "lat": 40.9905196,
+            "lon": 29.2288624
+        },
+        {
+            "district": "sariyer",
+            "lat": 41.1685803,
+            "lon": 29.0572623
+        },
+        {
+            "district": "silivri",
+            "lat": 41.0742476,
+            "lon": 28.2481709
+        },
+        {
+            "district": "sultanbeyli",
+            "lat": 40.9670242,
+            "lon": 29.2671314
+        },
+        {
+            "district": "sultangazi",
+            "lat": 41.1043344,
+            "lon": 28.8614367
+        },
+        {
+            "district": "sile",
+            "lat": 41.1744067,
+            "lon": 29.6125216
+        },
+        {
+            "district": "sisli",
+            "lat": 41.0637891,
+            "lon": 28.9831642
+        },
+        {
+            "district": "tuzla",
+            "lat": 40.8161732,
+            "lon": 29.3034194
+        },
+        {
+            "district": "umraniye",
+            "lat": 41.0256362,
+            "lon": 29.0963049
+        },
+        {
+            "district": "uskudar",
+            "lat": 41.0265498,
+            "lon": 29.0151321
+        },
+        {
+            "district": "zeytinburnu",
+            "lat": 40.9898653,
+            "lon": 28.9037467
+        }
+    ],
+    "izmir": [
+        {
+            "district": "aliaga",
+            "lat": 38.8009721,
+            "lon": 26.9729821
+        },
+        {
+            "district": "balcova",
+            "lat": 38.3929338,
+            "lon": 27.0448169
+        },
+        {
+            "district": "bayindir",
+            "lat": 38.2206046,
+            "lon": 27.6472979
+        },
+        {
+            "district": "bayrakli",
+            "lat": 38.4645882,
+            "lon": 27.1682575
+        },
+        {
+            "district": "bergama",
+            "lat": 39.1191544,
+            "lon": 27.1777296
+        },
+        {
+            "district": "beydag",
+            "lat": 38.0859301,
+            "lon": 28.20843
+        },
+        {
+            "district": "bornova",
+            "lat": 38.4660651,
+            "lon": 27.2190721
+        },
+        {
+            "district": "buca",
+            "lat": 38.3880413,
+            "lon": 27.1733777
+        },
+        {
+            "district": "cesme",
+            "lat": 38.3228053,
+            "lon": 26.3028171
+        },
+        {
+            "district": "cigli",
+            "lat": 38.4938679,
+            "lon": 27.0624484
+        },
+        {
+            "district": "dikili",
+            "lat": 39.0738718,
+            "lon": 26.8906516
+        },
+        {
+            "district": "foca",
+            "lat": 38.6684637,
+            "lon": 26.7548272
+        },
+        {
+            "district": "gaziemir",
+            "lat": 38.3213271,
+            "lon": 27.1269257
+        },
+        {
+            "district": "guzelbahce",
+            "lat": 38.357797,
+            "lon": 26.8882993
+        },
+        {
+            "district": "karabaglar",
+            "lat": 38.3981367,
+            "lon": 27.1277994
+        },
+        {
+            "district": "karaburun",
+            "lat": 38.6354423,
+            "lon": 26.5098027
+        },
+        {
+            "district": "karsiyaka",
+            "lat": 38.503445150000005,
+            "lon": 27.113455434284667
+        },
+        {
+            "district": "kemalpasa",
+            "lat": 38.4278291,
+            "lon": 27.4152158
+        },
+        {
+            "district": "kinik",
+            "lat": 39.0871916,
+            "lon": 27.38349
+        },
+        {
+            "district": "kiraz",
+            "lat": 38.2310995,
+            "lon": 28.2048901
+        },
+        {
+            "district": "konak",
+            "lat": 38.4237433,
+            "lon": 27.1428019
+        },
+        {
+            "district": "menderes",
+            "lat": 38.2516422,
+            "lon": 27.1329994
+        },
+        {
+            "district": "menemen",
+            "lat": 38.6093916,
+            "lon": 27.0664452
+        },
+        {
+            "district": "nergiz",
+            "lat": 38.4595882,
+            "lon": 27.1046651
+        },
+        {
+            "district": "odemis",
+            "lat": 38.227747,
+            "lon": 27.9687635
+        },
+        {
+            "district": "seferihisar",
+            "lat": 38.1953539,
+            "lon": 26.8384935
+        },
+        {
+            "district": "selcuk",
+            "lat": 37.9507326,
+            "lon": 27.3698345
+        },
+        {
+            "district": "tekeli",
+            "lat": 39.0669474,
+            "lon": 27.2986008
+        },
+        {
+            "district": "tire",
+            "lat": 38.086822,
+            "lon": 27.7338358
+        },
+        {
+            "district": "torbali",
+            "lat": 38.1513559,
+            "lon": 27.3616214
+        },
+        {
+            "district": "urla",
+            "lat": 38.3228184,
+            "lon": 26.7672998
+        }
+    ],
+    "kahramanmaras": [
+        {
+            "district": "afsin",
+            "lat": 38.2438548,
+            "lon": 36.9152873
+        },
+        {
+            "district": "andirin",
+            "lat": 37.5737884,
+            "lon": 36.3538657
+        },
+        {
+            "district": "caglayancerit",
+            "lat": 37.7499656,
+            "lon": 37.2927846
+        },
+        {
+            "district": "ekinozu",
+            "lat": 38.0606689,
+            "lon": 37.1894147
+        },
+        {
+            "district": "elbistan",
+            "lat": 38.2022294,
+            "lon": 37.1903006
+        },
+        {
+            "district": "goksun",
+            "lat": 38.0214898,
+            "lon": 36.494634
+        },
+        {
+            "district": "nurhak",
+            "lat": 37.9661475,
+            "lon": 37.4421885
+        },
+        {
+            "district": "onikisubat",
+            "lat": 37.5777575,
+            "lon": 36.923735
+        },
+        {
+            "district": "pazarcik",
+            "lat": 37.4894912,
+            "lon": 37.2935151
+        },
+        {
+            "district": "turkoglu",
+            "lat": 37.3864782,
+            "lon": 36.8474237
+        },
+        {
+            "district": "dulkadiroglu",
+            "lat": 37.5812744,
+            "lon": 36.927509
+        }
+    ],
+    "karabuk": [
+        {
+            "district": "eflani",
+            "lat": 41.4229445,
+            "lon": 32.9581882
+        },
+        {
+            "district": "eskipazar",
+            "lat": 40.9446697,
+            "lon": 32.5314185
+        },
+        {
+            "district": "ovacik",
+            "lat": 41.0765083,
+            "lon": 32.9192134
+        },
+        {
+            "district": "safranbolu",
+            "lat": 41.2456658,
+            "lon": 32.6929575
+        },
+        {
+            "district": "yenice",
+            "lat": 41.2006661,
+            "lon": 32.3279252
+        }
+    ],
+    "karaman": [
+        {
+            "district": "ayranci",
+            "lat": 37.3602058,
+            "lon": 33.689381
+        },
+        {
+            "district": "basyayla",
+            "lat": 36.751636149999996,
+            "lon": 32.68785340078598
+        },
+        {
+            "district": "ermenek",
+            "lat": 36.6389037,
+            "lon": 32.8888721
+        },
+        {
+            "district": "kazimkarabekir",
+            "lat": 37.2265254,
+            "lon": 32.9582567
+        },
+        {
+            "district": "sariveliler",
+            "lat": 36.6985256,
+            "lon": 32.618221
+        }
+    ],
+    "kars": [
+        {
+            "district": "akyaka",
+            "lat": 40.80006965,
+            "lon": 43.62309020629091
+        },
+        {
+            "district": "arpacay",
+            "lat": 40.88741435,
+            "lon": 43.40666520006439
+        },
+        {
+            "district": "digor",
+            "lat": 40.3765095,
+            "lon": 43.4119469
+        },
+        {
+            "district": "kagizman",
+            "lat": 40.1560647,
+            "lon": 43.15874655531304
+        },
+        {
+            "district": "sarikamis",
+            "lat": 40.3358506,
+            "lon": 42.5769813
+        },
+        {
+            "district": "selim",
+            "lat": 40.4335708,
+            "lon": 42.8041106
+        },
+        {
+            "district": "susuz",
+            "lat": 40.7792267,
+            "lon": 43.1286876
+        }
+    ],
+    "kastamonu": [
+        {
+            "district": "abana",
+            "lat": 41.9785014,
+            "lon": 34.0077229
+        },
+        {
+            "district": "agli",
+            "lat": 41.6871527,
+            "lon": 33.5537946
+        },
+        {
+            "district": "arac",
+            "lat": 41.2412014,
+            "lon": 33.324933
+        },
+        {
+            "district": "azdavay",
+            "lat": 41.6420759,
+            "lon": 33.3009356
+        },
+        {
+            "district": "bozkurt",
+            "lat": 41.958798,
+            "lon": 34.0126284
+        },
+        {
+            "district": "cide",
+            "lat": 41.8915711,
+            "lon": 33.003712
+        },
+        {
+            "district": "catalzeytin",
+            "lat": 41.9531105,
+            "lon": 34.2226751
+        },
+        {
+            "district": "daday",
+            "lat": 41.4808394,
+            "lon": 33.3533836082156
+        },
+        {
+            "district": "devrekani",
+            "lat": 41.6025639,
+            "lon": 33.8370923
+        },
+        {
+            "district": "doganyurt",
+            "lat": 42.005597,
+            "lon": 33.4604573
+        },
+        {
+            "district": "hanonu",
+            "lat": 41.6255724,
+            "lon": 34.4680011
+        },
+        {
+            "district": "ihsangazi",
+            "lat": 41.2040122,
+            "lon": 33.5559175
+        },
+        {
+            "district": "inebolu",
+            "lat": 41.9785763,
+            "lon": 33.7599031
+        },
+        {
+            "district": "kure",
+            "lat": 41.8058822,
+            "lon": 33.710262
+        },
+        {
+            "district": "pinarbasi",
+            "lat": 41.6036031,
+            "lon": 33.1108755
+        },
+        {
+            "district": "seydiler",
+            "lat": 41.618845,
+            "lon": 33.7186254
+        },
+        {
+            "district": "senpazar",
+            "lat": 41.8085991,
+            "lon": 33.2328731
+        },
+        {
+            "district": "taskopru",
+            "lat": 41.5092008,
+            "lon": 34.2124908
+        },
+        {
+            "district": "tosya",
+            "lat": 41.0164957,
+            "lon": 34.0386079
+        }
+    ],
+    "kayseri": [
+        {
+            "district": "akkisla",
+            "lat": 38.98499085,
+            "lon": 36.19456341873715
+        },
+        {
+            "district": "bunyan",
+            "lat": 38.8458924,
+            "lon": 35.8576944
+        },
+        {
+            "district": "develi",
+            "lat": 38.3879285,
+            "lon": 35.4900997
+        },
+        {
+            "district": "felahiye",
+            "lat": 39.090713,
+            "lon": 35.5674921
+        },
+        {
+            "district": "hacilar",
+            "lat": 38.6442696,
+            "lon": 35.4497656
+        },
+        {
+            "district": "incesu",
+            "lat": 38.6233834,
+            "lon": 35.1838195
+        },
+        {
+            "district": "kocasinan",
+            "lat": 38.7395414,
+            "lon": 35.4817131
+        },
+        {
+            "district": "melikgazi",
+            "lat": 38.7219011,
+            "lon": 35.4873214
+        },
+        {
+            "district": "ozvatan",
+            "lat": 39.1059259,
+            "lon": 35.6992083
+        },
+        {
+            "district": "pinarbasi",
+            "lat": 38.7214464,
+            "lon": 36.3941324
+        },
+        {
+            "district": "sariz",
+            "lat": 38.4781678,
+            "lon": 36.515028561308654
+        },
+        {
+            "district": "tomarza",
+            "lat": 38.4476867,
+            "lon": 35.8009143
+        },
+        {
+            "district": "yahyali",
+            "lat": 38.1003432,
+            "lon": 35.3541006
+        },
+        {
+            "district": "yesilhisar",
+            "lat": 38.3522777,
+            "lon": 35.0886827
+        }
+    ],
+    "kirikkale": [
+        {
+            "district": "bahsili",
+            "lat": 39.813252,
+            "lon": 33.4717917
+        },
+        {
+            "district": "baliseyh",
+            "lat": 39.9097195,
+            "lon": 33.7183432
+        },
+        {
+            "district": "celebi",
+            "lat": 39.4636988,
+            "lon": 33.5244142
+        },
+        {
+            "district": "delice",
+            "lat": 39.9455172,
+            "lon": 34.0312969
+        },
+        {
+            "district": "karakecili",
+            "lat": 39.5925222,
+            "lon": 33.382092
+        },
+        {
+            "district": "keskin",
+            "lat": 39.673994,
+            "lon": 33.615167
+        },
+        {
+            "district": "sulakyurt",
+            "lat": 40.1576767,
+            "lon": 33.7156669
+        },
+        {
+            "district": "yahsihan",
+            "lat": 39.8497536,
+            "lon": 33.452421
+        }
+    ],
+    "kirklareli": [
+        {
+            "district": "babaeski",
+            "lat": 41.4302616,
+            "lon": 27.0917789
+        },
+        {
+            "district": "demirkoy",
+            "lat": 41.8241512,
+            "lon": 27.7651465
+        },
+        {
+            "district": "kofcaz",
+            "lat": 41.9449622,
+            "lon": 27.1578543
+        },
+        {
+            "district": "luleburgaz",
+            "lat": 41.4041358,
+            "lon": 27.3554651
+        },
+        {
+            "district": "pehlivankoy",
+            "lat": 41.3470399,
+            "lon": 26.9202484
+        },
+        {
+            "district": "pinarhisar",
+            "lat": 41.6254954,
+            "lon": 27.5157753
+        },
+        {
+            "district": "vize",
+            "lat": 41.5728684,
+            "lon": 27.7670379
+        }
+    ],
+    "kirsehir": [
+        {
+            "district": "akcakent",
+            "lat": 39.6250244,
+            "lon": 34.0962165
+        },
+        {
+            "district": "akpinar",
+            "lat": 39.4479684,
+            "lon": 33.9639275
+        },
+        {
+            "district": "boztepe",
+            "lat": 39.2716145,
+            "lon": 34.2639915
+        },
+        {
+            "district": "cicekdagi",
+            "lat": 39.6035963,
+            "lon": 34.4158032
+        },
+        {
+            "district": "kaman",
+            "lat": 39.3588984,
+            "lon": 33.7243959
+        },
+        {
+            "district": "mucur",
+            "lat": 39.0602118,
+            "lon": 34.3800488
+        }
+    ],
+    "kilis": [
+        {
+            "district": "elbeyli",
+            "lat": 36.6750392,
+            "lon": 37.4668663
+        },
+        {
+            "district": "musabeyli",
+            "lat": 36.8861294,
+            "lon": 36.9155864
+        },
+        {
+            "district": "polateli",
+            "lat": 36.8408425,
+            "lon": 37.1428787
+        }
+    ],
+    "kocaeli": [
+        {
+            "district": "basiskele",
+            "lat": 40.7129276,
+            "lon": 29.9286975
+        },
+        {
+            "district": "camiduzu",
+            "lat": 40.6573703,
+            "lon": 29.9816161
+        },
+        {
+            "district": "darica",
+            "lat": 40.7574799,
+            "lon": 29.3840563
+        },
+        {
+            "district": "derince",
+            "lat": 40.757461,
+            "lon": 29.8307537
+        },
+        {
+            "district": "dilovasi",
+            "lat": 40.7756061,
+            "lon": 29.5260959
+        },
+        {
+            "district": "gebze",
+            "lat": 40.8006696,
+            "lon": 29.431767
+        },
+        {
+            "district": "golcuk",
+            "lat": 40.7167526,
+            "lon": 29.8195272
+        },
+        {
+            "district": "izmit",
+            "lat": 40.7653892,
+            "lon": 29.9407361
+        },
+        {
+            "district": "kandira",
+            "lat": 41.0703914,
+            "lon": 30.1523298
+        },
+        {
+            "district": "karamursel",
+            "lat": 40.6912501,
+            "lon": 29.6165859
+        },
+        {
+            "district": "kartepe",
+            "lat": 40.7454357,
+            "lon": 30.0112827
+        },
+        {
+            "district": "korfez",
+            "lat": 40.760756,
+            "lon": 29.7839402
+        }
+    ],
+    "konya": [
+        {
+            "district": "ahirli",
+            "lat": 37.2387107,
+            "lon": 32.1189472
+        },
+        {
+            "district": "akoren",
+            "lat": 37.4523288,
+            "lon": 32.3725238
+        },
+        {
+            "district": "aksehir",
+            "lat": 38.3588503,
+            "lon": 31.4201959
+        },
+        {
+            "district": "altinekin",
+            "lat": 38.3073063,
+            "lon": 32.8691468
+        },
+        {
+            "district": "beysehir",
+            "lat": 37.6754536,
+            "lon": 31.7269088
+        },
+        {
+            "district": "bozkir",
+            "lat": 37.1898741,
+            "lon": 32.2472016
+        },
+        {
+            "district": "cihanbeyli",
+            "lat": 38.6589897,
+            "lon": 32.9237305
+        },
+        {
+            "district": "celtik",
+            "lat": 39.0015698,
+            "lon": 31.8468315
+        },
+        {
+            "district": "cumra",
+            "lat": 37.5713333,
+            "lon": 32.7811767
+        },
+        {
+            "district": "derbent",
+            "lat": 38.0137463,
+            "lon": 32.0172472
+        },
+        {
+            "district": "derebucak",
+            "lat": 37.3915007,
+            "lon": 31.5106783
+        },
+        {
+            "district": "doganhisar",
+            "lat": 38.1460169,
+            "lon": 31.6768638
+        },
+        {
+            "district": "emirgazi",
+            "lat": 37.8833706,
+            "lon": 32.5351329
+        },
+        {
+            "district": "eregli",
+            "lat": 37.5140718,
+            "lon": 34.0473423
+        },
+        {
+            "district": "guneysinir",
+            "lat": 37.19918405,
+            "lon": 32.6987598
+        },
+        {
+            "district": "hadim",
+            "lat": 36.9860893,
+            "lon": 32.4558036
+        },
+        {
+            "district": "halkapinar",
+            "lat": 37.4336548,
+            "lon": 34.1868412
+        },
+        {
+            "district": "huyuk",
+            "lat": 37.9547763,
+            "lon": 31.5973318
+        },
+        {
+            "district": "ilgin",
+            "lat": 38.281774,
+            "lon": 31.9178668
+        },
+        {
+            "district": "kadinhani",
+            "lat": 38.2400504,
+            "lon": 32.2122055
+        },
+        {
+            "district": "karapinar",
+            "lat": 37.7177584,
+            "lon": 33.5476273
+        },
+        {
+            "district": "karatay",
+            "lat": 37.8710438,
+            "lon": 32.5030448
+        },
+        {
+            "district": "kulu",
+            "lat": 39.0903057,
+            "lon": 33.0805302
+        },
+        {
+            "district": "meram",
+            "lat": 37.8679527,
+            "lon": 32.4946514
+        },
+        {
+            "district": "sarayonu",
+            "lat": 37.3941556,
+            "lon": 31.5059137
+        },
+        {
+            "district": "selcuklu",
+            "lat": 37.872734,
+            "lon": 32.4924376
+        },
+        {
+            "district": "seydisehir",
+            "lat": 37.4193713,
+            "lon": 31.8483332
+        },
+        {
+            "district": "taskent",
+            "lat": 36.9239246,
+            "lon": 32.4926174
+        },
+        {
+            "district": "tuzlukcu",
+            "lat": 38.4729231,
+            "lon": 31.6270612
+        },
+        {
+            "district": "yalihuyuk",
+            "lat": 37.3005707,
+            "lon": 32.0854194
+        },
+        {
+            "district": "yunak",
+            "lat": 38.8180038,
+            "lon": 32.0139588
+        }
+    ],
+    "kutahya": [
+        {
+            "district": "altintas",
+            "lat": 39.0060021,
+            "lon": 29.4583152
+        },
+        {
+            "district": "aslanapa",
+            "lat": 39.2152231,
+            "lon": 29.869627
+        },
+        {
+            "district": "cavdarhisar",
+            "lat": 39.1943854,
+            "lon": 29.619524
+        },
+        {
+            "district": "domanic",
+            "lat": 39.8014005,
+            "lon": 29.6118544
+        },
+        {
+            "district": "dumlupinar",
+            "lat": 39.4020988,
+            "lon": 30.0344086
+        },
+        {
+            "district": "emet",
+            "lat": 39.341462,
+            "lon": 29.2585932
+        },
+        {
+            "district": "gediz",
+            "lat": 38.993429,
+            "lon": 29.3911585
+        },
+        {
+            "district": "hisarcik",
+            "lat": 39.2505098,
+            "lon": 29.2312912
+        },
+        {
+            "district": "pazarlar",
+            "lat": 38.9946284,
+            "lon": 29.1231223
+        },
+        {
+            "district": "saphane",
+            "lat": 39.0254087,
+            "lon": 29.2199543
+        },
+        {
+            "district": "simav",
+            "lat": 39.0888824,
+            "lon": 28.9772886
+        },
+        {
+            "district": "tavsanli",
+            "lat": 39.5451181,
+            "lon": 29.4955923
+        }
+    ],
+    "malatya": [
+        {
+            "district": "akcadag",
+            "lat": 38.3443581,
+            "lon": 37.9711325
+        },
+        {
+            "district": "arapgir",
+            "lat": 39.0422423,
+            "lon": 38.4898342
+        },
+        {
+            "district": "arguvan",
+            "lat": 38.7820616,
+            "lon": 38.2642877
+        },
+        {
+            "district": "battalgazi",
+            "lat": 38.3487153,
+            "lon": 38.3190674
+        },
+        {
+            "district": "darende",
+            "lat": 38.5573096,
+            "lon": 37.4926521
+        },
+        {
+            "district": "dogansehir",
+            "lat": 38.0934102,
+            "lon": 37.8784394
+        },
+        {
+            "district": "doganyol",
+            "lat": 38.3097064,
+            "lon": 39.038417
+        },
+        {
+            "district": "hekimhan",
+            "lat": 38.8165078,
+            "lon": 37.930697
+        },
+        {
+            "district": "kuluncak",
+            "lat": 38.8848581,
+            "lon": 37.6707415
+        },
+        {
+            "district": "poturge",
+            "lat": 38.1973443,
+            "lon": 38.8702321
+        },
+        {
+            "district": "yazihan",
+            "lat": 38.5956663,
+            "lon": 38.1801051
+        },
+        {
+            "district": "yesilyurt",
+            "lat": 38.2954882,
+            "lon": 38.2474518
+        }
+    ],
+    "manisa": [
+        {
+            "district": "ahmetli",
+            "lat": 38.618458,
+            "lon": 28.671642
+        },
+        {
+            "district": "akhisar",
+            "lat": 38.9240528,
+            "lon": 27.8401895
+        },
+        {
+            "district": "alasehir",
+            "lat": 38.3507471,
+            "lon": 28.516575
+        },
+        {
+            "district": "demirci",
+            "lat": 38.892216,
+            "lon": 28.622007
+        },
+        {
+            "district": "_golmarmara",
+            "lat": 38.7121874,
+            "lon": 27.9157
+        },
+        {
+            "district": "gordes",
+            "lat": 38.9331088,
+            "lon": 28.2888572
+        },
+        {
+            "district": "kirkagac",
+            "lat": 39.1072,
+            "lon": 27.6687116
+        },
+        {
+            "district": "koprubasi",
+            "lat": 38.7480227,
+            "lon": 28.4029532
+        },
+        {
+            "district": "kula",
+            "lat": 38.5468907,
+            "lon": 28.6474338
+        },
+        {
+            "district": "salihli",
+            "lat": 38.4860588,
+            "lon": 28.1390032
+        },
+        {
+            "district": "sarigol",
+            "lat": 38.2382254,
+            "lon": 28.6965768
+        },
+        {
+            "district": "saruhanli",
+            "lat": 38.7349381,
+            "lon": 27.5719219
+        },
+        {
+            "district": "selendi",
+            "lat": 38.7436809,
+            "lon": 28.8668089
+        },
+        {
+            "district": "soma",
+            "lat": 39.185172,
+            "lon": 27.6088792
+        },
+        {
+            "district": "sehzadeler",
+            "lat": 38.6125793,
+            "lon": 27.4333969
+        },
+        {
+            "district": "turgutlu",
+            "lat": 38.5000458,
+            "lon": 27.7084176
+        },
+        {
+            "district": "yunusemre",
+            "lat": 38.6086543,
+            "lon": 27.4194561
+        }
+    ],
+    "mardin": [
+        {
+            "district": "dargecit",
+            "lat": 37.5459484,
+            "lon": 41.7206012
+        },
+        {
+            "district": "derik",
+            "lat": 37.3647781,
+            "lon": 40.2691843
+        },
+        {
+            "district": "kiziltepe",
+            "lat": 37.1916551,
+            "lon": 40.5847974
+        },
+        {
+            "district": "midyat",
+            "lat": 37.4152662,
+            "lon": 41.3733325
+        },
+        {
+            "district": "nusaybin",
+            "lat": 37.0691755,
+            "lon": 41.2164671
+        },
+        {
+            "district": "omerli",
+            "lat": 37.402127,
+            "lon": 40.9538832
+        },
+        {
+            "district": "artuklu",
+            "lat": 37.3132581,
+            "lon": 40.7354383
+        },
+        {
+            "district": "mazidagi",
+            "lat": 37.4773211,
+            "lon": 40.4864914
+        },
+        {
+            "district": "savur",
+            "lat": 37.5368396,
+            "lon": 40.8873746
+        }
+    ],
+    "mersin": [
+        {
+            "district": "anamur",
+            "lat": 36.080323,
+            "lon": 32.8312106
+        },
+        {
+            "district": "aydincik",
+            "lat": 36.1452033,
+            "lon": 33.3224232
+        },
+        {
+            "district": "bozyazi",
+            "lat": 36.1048224,
+            "lon": 32.9742864
+        },
+        {
+            "district": "camliyayla",
+            "lat": 37.1665396,
+            "lon": 34.5934427
+        },
+        {
+            "district": "erdemli",
+            "lat": 36.6057089,
+            "lon": 34.3102872
+        },
+        {
+            "district": "gulnar",
+            "lat": 36.3386638,
+            "lon": 33.3990129
+        },
+        {
+            "district": "mut",
+            "lat": 36.6434207,
+            "lon": 33.437263
+        },
+        {
+            "district": "silifke",
+            "lat": 36.3778166,
+            "lon": 33.9260372
+        },
+        {
+            "district": "tarsus",
+            "lat": 36.9164834,
+            "lon": 34.895149
+        },
+        {
+            "district": "toroslar",
+            "lat": 36.8208212,
+            "lon": 34.6104636
+        },
+        {
+            "district": "yenisehir",
+            "lat": 36.7822772,
+            "lon": 34.5924486
+        },
+        {
+            "district": "mezitli",
+            "lat": 36.7495289,
+            "lon": 34.5307018
+        },
+        {
+            "district": "akdeniz",
+            "lat": 36.7978381,
+            "lon": 34.6298391
+        }
+    ],
+    "mugla": [
+        {
+            "district": "bodrum",
+            "lat": 37.0343987,
+            "lon": 27.430651
+        },
+        {
+            "district": "dalaman",
+            "lat": 36.7672142,
+            "lon": 28.8002737
+        },
+        {
+            "district": "datca",
+            "lat": 36.7263403,
+            "lon": 27.6873855
+        },
+        {
+            "district": "fethiye",
+            "lat": 36.6221019,
+            "lon": 29.1153234
+        },
+        {
+            "district": "kavaklidere",
+            "lat": 37.4456315,
+            "lon": 28.364925
+        },
+        {
+            "district": "koycegiz",
+            "lat": 36.958501,
+            "lon": 28.6889436
+        },
+        {
+            "district": "marmaris",
+            "lat": 36.8522547,
+            "lon": 28.2742661
+        },
+        {
+            "district": "milas",
+            "lat": 37.3169681,
+            "lon": 27.7898502
+        },
+        {
+            "district": "ortaca",
+            "lat": 36.8388775,
+            "lon": 28.7654688
+        },
+        {
+            "district": "ula",
+            "lat": 37.1029233,
+            "lon": 28.416366
+        },
+        {
+            "district": "yatagan",
+            "lat": 37.3416697,
+            "lon": 28.1395113
+        }
+    ],
+    "mus": [
+        {
+            "district": "bulanik",
+            "lat": 39.0911011,
+            "lon": 42.2703208
+        },
+        {
+            "district": "haskoy",
+            "lat": 38.6826159,
+            "lon": 41.6885287
+        },
+        {
+            "district": "korkut",
+            "lat": 38.7382526,
+            "lon": 41.7843731
+        },
+        {
+            "district": "malazgirt",
+            "lat": 39.1461406,
+            "lon": 42.5409459
+        },
+        {
+            "district": "varto",
+            "lat": 39.1720873,
+            "lon": 41.4546645
+        }
+    ],
+    "nevsehir": [
+        {
+            "district": "acigol",
+            "lat": 38.5501551,
+            "lon": 34.508966
+        },
+        {
+            "district": "avanos",
+            "lat": 38.7187371,
+            "lon": 34.8468663
+        },
+        {
+            "district": "derinkuyu",
+            "lat": 38.3735761,
+            "lon": 34.7351222
+        },
+        {
+            "district": "gulsehir",
+            "lat": 38.7426297,
+            "lon": 34.6192575
+        },
+        {
+            "district": "hacibektas",
+            "lat": 38.9428835,
+            "lon": 34.5608817
+        },
+        {
+            "district": "kozakli",
+            "lat": 39.21114655,
+            "lon": 34.78257945114676
+        },
+        {
+            "district": "urgup",
+            "lat": 38.6300508,
+            "lon": 34.9116025
+        }
+    ],
+    "nigde": [
+        {
+            "district": "altunhisar",
+            "lat": 37.9990127,
+            "lon": 34.3715056
+        },
+        {
+            "district": "bor",
+            "lat": 37.8963169,
+            "lon": 34.5627312
+        },
+        {
+            "district": "camardi",
+            "lat": 37.83441,
+            "lon": 34.9863918
+        },
+        {
+            "district": "ciftlik",
+            "lat": 38.1756748,
+            "lon": 34.4857641
+        },
+        {
+            "district": "ulukisla",
+            "lat": 37.5465282,
+            "lon": 34.4842714
+        }
+    ],
+    "ordu": [
+        {
+            "district": "akkus",
+            "lat": 40.7924952,
+            "lon": 37.0177445
+        },
+        {
+            "district": "aybasti",
+            "lat": 40.6846234,
+            "lon": 37.398808
+        },
+        {
+            "district": "camas",
+            "lat": 40.9025607,
+            "lon": 37.5281141
+        },
+        {
+            "district": "catalpinar",
+            "lat": 40.8789862,
+            "lon": 37.4531774
+        },
+        {
+            "district": "caybasi",
+            "lat": 41.0171939,
+            "lon": 37.0986611
+        },
+        {
+            "district": "fatsa",
+            "lat": 41.0308808,
+            "lon": 37.500221
+        },
+        {
+            "district": "golkoy",
+            "lat": 40.6873489,
+            "lon": 37.6156023
+        },
+        {
+            "district": "gulyali",
+            "lat": 40.9662509,
+            "lon": 38.0585763
+        },
+        {
+            "district": "gurgentepe",
+            "lat": 40.7886172,
+            "lon": 37.6008608
+        },
+        {
+            "district": "kabaduz",
+            "lat": 40.69814115,
+            "lon": 37.905818888428165
+        },
+        {
+            "district": "kabatas",
+            "lat": 40.7523911,
+            "lon": 37.4499322
+        },
+        {
+            "district": "korgan",
+            "lat": 40.8295581,
+            "lon": 37.3441414
+        },
+        {
+            "district": "kumru",
+            "lat": 40.8719806,
+            "lon": 37.2600453
+        },
+        {
+            "district": "mesudiye",
+            "lat": 40.4635622,
+            "lon": 37.7735687
+        },
+        {
+            "district": "persembe",
+            "lat": 40.628865000000005,
+            "lon": 37.288823799454505
+        },
+        {
+            "district": "ulubey",
+            "lat": 40.8730342,
+            "lon": 37.7585422
+        },
+        {
+            "district": "unye",
+            "lat": 41.1262405,
+            "lon": 37.2853616
+        }
+    ],
+    "osmaniye": [
+        {
+            "district": "bahce",
+            "lat": 37.2042113,
+            "lon": 36.5820496
+        },
+        {
+            "district": "duzici",
+            "lat": 37.2401223,
+            "lon": 36.4534072
+        },
+        {
+            "district": "hasanbeyli",
+            "lat": 37.1309318,
+            "lon": 36.555539
+        },
+        {
+            "district": "kadirli",
+            "lat": 37.462024299999996,
+            "lon": 36.17201485369948
+        },
+        {
+            "district": "sumbas",
+            "lat": 37.4536229,
+            "lon": 36.0247595
+        },
+        {
+            "district": "toprakkale",
+            "lat": 37.067132,
+            "lon": 36.1460016
+        }
+    ],
+    "rize": [
+        {
+            "district": "ardesen",
+            "lat": 41.191875,
+            "lon": 40.9894178
+        },
+        {
+            "district": "camlihemsin",
+            "lat": 41.045571,
+            "lon": 41.0056974
+        },
+        {
+            "district": "cayeli",
+            "lat": 41.0878328,
+            "lon": 40.7236973
+        },
+        {
+            "district": "derepazari",
+            "lat": 41.0267665,
+            "lon": 40.4240257
+        },
+        {
+            "district": "findikli",
+            "lat": 41.271235,
+            "lon": 41.1414159
+        },
+        {
+            "district": "guneysu",
+            "lat": 40.977154,
+            "lon": 40.6135914
+        },
+        {
+            "district": "hemsin",
+            "lat": 41.0475214,
+            "lon": 40.8987978
+        },
+        {
+            "district": "ikizdere",
+            "lat": 40.7779924,
+            "lon": 40.5595743
+        },
+        {
+            "district": "iyidere",
+            "lat": 41.0119784,
+            "lon": 40.3609704
+        },
+        {
+            "district": "kalkandere",
+            "lat": 40.9279478,
+            "lon": 40.4425085
+        },
+        {
+            "district": "pazar",
+            "lat": 41.1802584,
+            "lon": 40.8868482
+        }
+    ],
+    "sakarya": [
+        {
+            "district": "adapazari",
+            "lat": 40.7726291,
+            "lon": 30.4038575
+        },
+        {
+            "district": "akyazi",
+            "lat": 40.66407975,
+            "lon": 30.679822119393393
+        },
+        {
+            "district": "arifiye",
+            "lat": 40.713143,
+            "lon": 30.3558365
+        },
+        {
+            "district": "erenler",
+            "lat": 40.7541546,
+            "lon": 30.4104852
+        },
+        {
+            "district": "ferizli",
+            "lat": 40.9401753,
+            "lon": 30.4846176
+        },
+        {
+            "district": "geyve",
+            "lat": 40.5090547,
+            "lon": 30.2902514
+        },
+        {
+            "district": "hendek",
+            "lat": 40.7955034,
+            "lon": 30.7452727
+        },
+        {
+            "district": "karapurcek",
+            "lat": 40.6421839,
+            "lon": 30.5375179
+        },
+        {
+            "district": "karasu",
+            "lat": 41.071152,
+            "lon": 30.784857
+        },
+        {
+            "district": "kaynarca",
+            "lat": 41.0340469,
+            "lon": 30.3055351
+        },
+        {
+            "district": "kocaali",
+            "lat": 41.0542812,
+            "lon": 30.8507446
+        },
+        {
+            "district": "pamukova",
+            "lat": 40.4409093,
+            "lon": 30.0559321
+        },
+        {
+            "district": "sapanca",
+            "lat": 40.6930538,
+            "lon": 30.27344
+        },
+        {
+            "district": "serdivan",
+            "lat": 40.7604062,
+            "lon": 30.3629614
+        },
+        {
+            "district": "sogutlu",
+            "lat": 40.8824032,
+            "lon": 30.4633495
+        },
+        {
+            "district": "tarakli",
+            "lat": 40.3965784,
+            "lon": 30.4921608
+        }
+    ],
+    "samsun": [
+        {
+            "district": "alacam",
+            "lat": 41.6068635,
+            "lon": 35.5973316
+        },
+        {
+            "district": "asarcik",
+            "lat": 41.0360288,
+            "lon": 36.2348212
+        },
+        {
+            "district": "ayvacik",
+            "lat": 40.9890631,
+            "lon": 36.6304882
+        },
+        {
+            "district": "bafra",
+            "lat": 41.5665954,
+            "lon": 35.9024777
+        },
+        {
+            "district": "canik",
+            "lat": 41.2671277,
+            "lon": 36.3556266
+        },
+        {
+            "district": "carsamba",
+            "lat": 41.1982911,
+            "lon": 36.7270196
+        },
+        {
+            "district": "havza",
+            "lat": 40.9660605,
+            "lon": 35.6653476
+        },
+        {
+            "district": "ilkadim",
+            "lat": 41.2946149,
+            "lon": 36.3320596
+        },
+        {
+            "district": "kavak",
+            "lat": 41.0773428,
+            "lon": 36.0431355
+        },
+        {
+            "district": "ladik",
+            "lat": 40.9082173,
+            "lon": 35.8945652
+        },
+        {
+            "district": "salipazari",
+            "lat": 41.0812834,
+            "lon": 36.8258019
+        },
+        {
+            "district": "tekkekoy",
+            "lat": 41.2134984,
+            "lon": 36.4578038
+        },
+        {
+            "district": "terme",
+            "lat": 41.2090393,
+            "lon": 36.9721685
+        },
+        {
+            "district": "vezirkopru",
+            "lat": 41.1433899,
+            "lon": 35.4604721
+        },
+        {
+            "district": "yakakent",
+            "lat": 41.6329513,
+            "lon": 35.5315896
+        }
+    ],
+    "siirt": [
+        {
+            "district": "aydinlar",
+            "lat": 37.9500638,
+            "lon": 42.0125174
+        },
+        {
+            "district": "baykan",
+            "lat": 38.162873,
+            "lon": 41.7856854
+        },
+        {
+            "district": "eruh",
+            "lat": 37.750599,
+            "lon": 42.1808359
+        },
+        {
+            "district": "kurtalan",
+            "lat": 37.9261138,
+            "lon": 41.7001877
+        },
+        {
+            "district": "pervari",
+            "lat": 37.9325036,
+            "lon": 42.5479907
+        },
+        {
+            "district": "sirvan",
+            "lat": 38.0617933,
+            "lon": 42.0299309
+        }
+    ],
+    "sinop": [
+        {
+            "district": "ayancik",
+            "lat": 41.9465719,
+            "lon": 34.5878729
+        },
+        {
+            "district": "boyabat",
+            "lat": 41.4689736,
+            "lon": 34.7672274
+        },
+        {
+            "district": "dikmen",
+            "lat": 41.6516239,
+            "lon": 35.2650575
+        },
+        {
+            "district": "duragan",
+            "lat": 41.4179668,
+            "lon": 35.0558096
+        },
+        {
+            "district": "erfelek",
+            "lat": 41.8793624,
+            "lon": 34.9080508
+        },
+        {
+            "district": "gerze",
+            "lat": 41.8032697,
+            "lon": 35.1996164
+        },
+        {
+            "district": "sarayduzu",
+            "lat": 41.3295166,
+            "lon": 34.8486017
+        },
+        {
+            "district": "turkeli",
+            "lat": 41.851414500000004,
+            "lon": 34.3721368459243
+        }
+    ],
+    "sivas": [
+        {
+            "district": "akincilar",
+            "lat": 40.0787174,
+            "lon": 38.3468396
+        },
+        {
+            "district": "altinyayla",
+            "lat": 39.2716679,
+            "lon": 36.751548
+        },
+        {
+            "district": "divrigi",
+            "lat": 39.3713764,
+            "lon": 38.1178512
+        },
+        {
+            "district": "dogansar",
+            "lat": 40.2142318,
+            "lon": 37.5365096
+        },
+        {
+            "district": "gemerek",
+            "lat": 39.1831222,
+            "lon": 36.0711044
+        },
+        {
+            "district": "golova",
+            "lat": 40.0612887,
+            "lon": 38.6084307
+        },
+        {
+            "district": "gurun",
+            "lat": 38.7213343,
+            "lon": 37.270935
+        },
+        {
+            "district": "hafik",
+            "lat": 39.8545854,
+            "lon": 37.3889604
+        },
+        {
+            "district": "imranli",
+            "lat": 39.8760006,
+            "lon": 38.1129304
+        },
+        {
+            "district": "kangal",
+            "lat": 39.2356593,
+            "lon": 37.3909121
+        },
+        {
+            "district": "karacabey",
+            "lat": 39.213878,
+            "lon": 36.1337954
+        },
+        {
+            "district": "koyulhisar",
+            "lat": 40.301321,
+            "lon": 37.8322757
+        },
+        {
+            "district": "susehri",
+            "lat": 40.1627343,
+            "lon": 38.0855664
+        },
+        {
+            "district": "sarkisla",
+            "lat": 39.3504952,
+            "lon": 36.4097977
+        },
+        {
+            "district": "yildizeli",
+            "lat": 39.8667215,
+            "lon": 36.6016346
+        },
+        {
+            "district": "zara",
+            "lat": 39.8972011,
+            "lon": 37.759073
+        }
+    ],
+    "sanliurfa": [
+        {
+            "district": "akcakale",
+            "lat": 36.708295,
+            "lon": 38.9486822
+        },
+        {
+            "district": "birecik",
+            "lat": 37.0315322,
+            "lon": 37.9800265
+        },
+        {
+            "district": "bozova",
+            "lat": 37.3619576,
+            "lon": 38.5253584
+        },
+        {
+            "district": "ceylanpinar",
+            "lat": 36.8441893,
+            "lon": 40.0516383
+        },
+        {
+            "district": "eyyubiye",
+            "lat": 37.1483185,
+            "lon": 38.7829952
+        },
+        {
+            "district": "halfeti",
+            "lat": 37.2309218,
+            "lon": 37.945736
+        },
+        {
+            "district": "harran",
+            "lat": 36.8710059,
+            "lon": 39.0251364
+        },
+        {
+            "district": "hilvan",
+            "lat": 37.520939,
+            "lon": 38.981094
+        },
+        {
+            "district": "haliliye",
+            "lat": 37.1596239,
+            "lon": 38.791929
+        },
+        {
+            "district": "siverek",
+            "lat": 37.7540905,
+            "lon": 39.3177426
+        },
+        {
+            "district": "suruc",
+            "lat": 36.9751849,
+            "lon": 38.424295
+        },
+        {
+            "district": "viransehir",
+            "lat": 37.2328946,
+            "lon": 39.7620135
+        },
+        {
+            "district": "karakopru",
+            "lat": 37.204652,
+            "lon": 38.7958511
+        }
+    ],
+    "sirnak": [
+        {
+            "district": "beytussebap",
+            "lat": 37.5709495,
+            "lon": 43.1702194
+        },
+        {
+            "district": "cizre",
+            "lat": 37.3324374,
+            "lon": 42.1854699
+        },
+        {
+            "district": "guclukonak",
+            "lat": 37.4711631,
+            "lon": 41.9111268
+        },
+        {
+            "district": "idil",
+            "lat": 37.3401862,
+            "lon": 41.8924031
+        },
+        {
+            "district": "silopi",
+            "lat": 37.2491577,
+            "lon": 42.4707504
+        },
+        {
+            "district": "uludere",
+            "lat": 37.4467396,
+            "lon": 42.8513576
+        }
+    ],
+    "tekirdag": [
+        {
+            "district": "cerkezkoy",
+            "lat": 41.2862482,
+            "lon": 27.999468
+        },
+        {
+            "district": "corlu",
+            "lat": 41.1590875,
+            "lon": 27.8041066
+        },
+        {
+            "district": "ergene",
+            "lat": 41.1877355,
+            "lon": 27.7677796
+        },
+        {
+            "district": "hayrabolu",
+            "lat": 41.2146709,
+            "lon": 27.1081765
+        },
+        {
+            "district": "kapakli",
+            "lat": 41.3268579,
+            "lon": 27.9761514
+        },
+        {
+            "district": "malkara",
+            "lat": 40.8930819,
+            "lon": 26.9023798
+        },
+        {
+            "district": "marmaraereglisi",
+            "lat": 40.9693702,
+            "lon": 27.9550008
+        },
+        {
+            "district": "muratli",
+            "lat": 41.1722934,
+            "lon": 27.5015106
+        },
+        {
+            "district": "saray",
+            "lat": 41.4426795,
+            "lon": 27.9213992
+        },
+        {
+            "district": "suleymanpasa",
+            "lat": 40.9781214,
+            "lon": 27.5107799
+        },
+        {
+            "district": "sarkoy",
+            "lat": 40.6148728,
+            "lon": 27.1121862
+        }
+    ],
+    "tokat": [
+        {
+            "district": "almus",
+            "lat": 40.3755971,
+            "lon": 36.9035885
+        },
+        {
+            "district": "artova",
+            "lat": 40.117866,
+            "lon": 36.2916457
+        },
+        {
+            "district": "basciftlik",
+            "lat": 40.5469067,
+            "lon": 37.1683222
+        },
+        {
+            "district": "erbaa",
+            "lat": 40.6719167,
+            "lon": 36.5685955
+        },
+        {
+            "district": "niksar",
+            "lat": 40.5913282,
+            "lon": 36.9434927
+        },
+        {
+            "district": "pazar",
+            "lat": 40.2757786,
+            "lon": 36.2822896
+        },
+        {
+            "district": "resadiye",
+            "lat": 40.4296606,
+            "lon": 37.37441099308873
+        },
+        {
+            "district": "sulusaray",
+            "lat": 39.9964268,
+            "lon": 36.0827505
+        },
+        {
+            "district": "turhal",
+            "lat": 40.3868287,
+            "lon": 36.0838319
+        },
+        {
+            "district": "yesilyurt",
+            "lat": 40.0072965,
+            "lon": 36.2194325
+        },
+        {
+            "district": "zile",
+            "lat": 40.3005345,
+            "lon": 35.8823475
+        }
+    ],
+    "trabzon": [
+        {
+            "district": "akcaabat",
+            "lat": 41.0216276,
+            "lon": 39.5706735
+        },
+        {
+            "district": "arakli",
+            "lat": 40.9358214,
+            "lon": 40.0580406
+        },
+        {
+            "district": "arsin",
+            "lat": 40.9537303,
+            "lon": 39.9325905
+        },
+        {
+            "district": "besikduzu",
+            "lat": 41.0527305,
+            "lon": 39.2280377
+        },
+        {
+            "district": "carsibasi",
+            "lat": 41.0825808,
+            "lon": 39.3784858
+        },
+        {
+            "district": "caykara",
+            "lat": 40.7478554,
+            "lon": 40.2420431
+        },
+        {
+            "district": "dernekpazari",
+            "lat": 40.7996282,
+            "lon": 40.2478946
+        },
+        {
+            "district": "duzkoy",
+            "lat": 40.8738307,
+            "lon": 39.4261086
+        },
+        {
+            "district": "hayrat",
+            "lat": 40.8891726,
+            "lon": 40.3680473
+        },
+        {
+            "district": "koprubasi",
+            "lat": 40.8072142,
+            "lon": 40.124241
+        },
+        {
+            "district": "macka",
+            "lat": 40.8120424,
+            "lon": 39.6127153
+        },
+        {
+            "district": "of",
+            "lat": 40.947642,
+            "lon": 40.2694068
+        },
+        {
+            "district": "ortahisar",
+            "lat": 41.0054605,
+            "lon": 39.7301463
+        },
+        {
+            "district": "surmene",
+            "lat": 40.9127715,
+            "lon": 40.1134808
+        },
+        {
+            "district": "salpazari",
+            "lat": 40.9418104,
+            "lon": 39.1938395
+        },
+        {
+            "district": "tonya",
+            "lat": 40.8859154,
+            "lon": 39.2909894
+        },
+        {
+            "district": "vakfikebir",
+            "lat": 41.047236,
+            "lon": 39.2761909
+        },
+        {
+            "district": "yomra",
+            "lat": 40.9592464,
+            "lon": 39.8471246
+        }
+    ],
+    "tunceli": [
+        {
+            "district": "cemisgezek",
+            "lat": 39.0628601,
+            "lon": 38.9104258
+        },
+        {
+            "district": "hozat",
+            "lat": 39.1075873,
+            "lon": 39.2193915
+        },
+        {
+            "district": "mazgirt",
+            "lat": 39.0195456,
+            "lon": 39.6059111
+        },
+        {
+            "district": "nazimiye",
+            "lat": 39.1795972,
+            "lon": 39.8288083
+        },
+        {
+            "district": "ovacik",
+            "lat": 39.3583833,
+            "lon": 39.2144472
+        },
+        {
+            "district": "pertek",
+            "lat": 38.8655563,
+            "lon": 39.327653
+        },
+        {
+            "district": "pulumur",
+            "lat": 39.4869645,
+            "lon": 39.8985207
+        }
+    ],
+    "usak": [
+        {
+            "district": "banaz",
+            "lat": 38.7644727,
+            "lon": 29.7528121
+        },
+        {
+            "district": "esme",
+            "lat": 38.3998673,
+            "lon": 28.9670144
+        },
+        {
+            "district": "karahalli",
+            "lat": 38.3206332,
+            "lon": 29.5313412
+        },
+        {
+            "district": "sivasli",
+            "lat": 38.5000314,
+            "lon": 29.6839519
+        },
+        {
+            "district": "ulubey",
+            "lat": 38.4193124,
+            "lon": 29.2909477
+        }
+    ],
+    "van": [
+        {
+            "district": "bahcesaray",
+            "lat": 38.1237164,
+            "lon": 42.8077339
+        },
+        {
+            "district": "baskale",
+            "lat": 38.0449111,
+            "lon": 44.016267
+        },
+        {
+            "district": "caldiran",
+            "lat": 39.1355203,
+            "lon": 43.9029377
+        },
+        {
+            "district": "catak",
+            "lat": 38.0069067,
+            "lon": 43.0591978
+        },
+        {
+            "district": "edremit",
+            "lat": 38.4258091,
+            "lon": 43.260234
+        },
+        {
+            "district": "ercis",
+            "lat": 39.0289887,
+            "lon": 43.3591059
+        },
+        {
+            "district": "gevas",
+            "lat": 38.2952862,
+            "lon": 43.108271
+        },
+        {
+            "district": "gurpinar",
+            "lat": 38.323265,
+            "lon": 43.4079006
+        },
+        {
+            "district": "ipekyolu",
+            "lat": 38.500875,
+            "lon": 43.3946051
+        },
+        {
+            "district": "muradiye",
+            "lat": 38.9902954,
+            "lon": 43.7611745
+        },
+        {
+            "district": "ozalp",
+            "lat": 38.6575929,
+            "lon": 43.9911448
+        },
+        {
+            "district": "saray",
+            "lat": 38.6493544,
+            "lon": 44.1695498
+        },
+        {
+            "district": "tusba",
+            "lat": 38.5123112,
+            "lon": 43.3752824
+        }
+    ],
+    "yalova": [
+        {
+            "district": "altinova",
+            "lat": 40.6963485,
+            "lon": 29.5099438
+        },
+        {
+            "district": "armutlu",
+            "lat": 40.5196199,
+            "lon": 28.8280114
+        },
+        {
+            "district": "cinarcik",
+            "lat": 40.606818950000005,
+            "lon": 29.048834151755422
+        },
+        {
+            "district": "ciftlikkoy",
+            "lat": 40.6645227,
+            "lon": 29.3229213
+        },
+        {
+            "district": "termal",
+            "lat": 40.60618,
+            "lon": 29.1742892
+        }
+    ],
+    "yozgat": [
+        {
+            "district": "akdagmadeni",
+            "lat": 39.6612219,
+            "lon": 35.8805457
+        },
+        {
+            "district": "aydincik",
+            "lat": 40.1302516,
+            "lon": 35.2851606
+        },
+        {
+            "district": "bogazliyan",
+            "lat": 39.191259,
+            "lon": 35.2462844
+        },
+        {
+            "district": "candir",
+            "lat": 39.2446046,
+            "lon": 35.5138601
+        },
+        {
+            "district": "cayiralan",
+            "lat": 39.3041026,
+            "lon": 35.6459653
+        },
+        {
+            "district": "cekerek",
+            "lat": 40.0649573,
+            "lon": 35.5072503
+        },
+        {
+            "district": "kadisehri",
+            "lat": 39.9957025,
+            "lon": 35.7904835
+        },
+        {
+            "district": "saraykent",
+            "lat": 39.6936979,
+            "lon": 35.5102049
+        },
+        {
+            "district": "sarikaya",
+            "lat": 39.4935902,
+            "lon": 35.3755098
+        },
+        {
+            "district": "sorgun",
+            "lat": 39.8098675,
+            "lon": 35.1854305
+        },
+        {
+            "district": "sefaatli",
+            "lat": 39.4962017,
+            "lon": 34.7568988
+        },
+        {
+            "district": "yerkoy",
+            "lat": 39.6413341,
+            "lon": 34.4682658
+        }
+    ],
+    "zonguldak": [
+        {
+            "district": "alapli",
+            "lat": 41.180375,
+            "lon": 31.3861776
+        },
+        {
+            "district": "caycuma",
+            "lat": 41.4269456,
+            "lon": 32.0728211
+        },
+        {
+            "district": "devrek",
+            "lat": 41.2188823,
+            "lon": 31.9558348
+        },
+        {
+            "district": "eregli",
+            "lat": 41.2795516,
+            "lon": 31.4229672
+        },
+        {
+            "district": "gokcebey",
+            "lat": 41.3056431,
+            "lon": 32.1429562
+        },
+        {
+            "district": "kilimli",
+            "lat": 41.4869266,
+            "lon": 31.8384083
+        },
+        {
+            "district": "kozlu",
+            "lat": 41.4338618,
+            "lon": 31.7471613
+        }
+    ]
+}
