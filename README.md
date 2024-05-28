@@ -1,17 +1,23 @@
 
 # EczaneBot 
-![](https://img.shields.io/badge/Python-Docker-blue) 
+![](https://img.shields.io/badge/Python-Telegram-blue) 
 
-Konumunuza en yakın nöbetçi eczanelerin bilgilerini öğrenmek için hazırlanmış open source Telegram botu.
+Konumunuza en yakın nöbetçi eczanelerin bilgilerini öğrenmek için hazırlanmış açık kaynak Telegram bot projesi.
 
 
 
 ## Nasıl Çalışıyor
 
-- Telegram üzerinden gönderilen konumun enlem ve boylamını kaydediyor.
-- Hazırladığım turkeyDistricts.json dosyasını kullanarak bulunduğunuz konuma en yakın 3 ilçeyi buluyor.
-- https://www.eczaneler.gen.tr üzerinden bu ilçeler için arama yapıyor.
-- Bulunan eczanelerden koordinatlarınıza en yakın 4 tanesinin bilgilerini size gönderiyor.
+- Telegram üzerinden gönderilen konumun koordinatlarını çıkarıyor.
+- Hazırladığım [turkeyDistricts.json](https://github.com/lilmirac/eczaneBot/blob/main/turkeyDistricts.json) dosyasını kullanarak bulunduğunuz koordinatlara en yakın 3 ilçeyi buluyor.
+- [eczaneler.gen.tr](https://www.eczaneler.gen.tr) üzerinden bu ilçeler için nöbetçi eczane araması yapıyor.
+- Bulunan nöbetçi eczanelerden konumunuza en yakın 4 eczanenin bilgilerini ve konumlarını size gönderiyor.
+
+
+## Ekran Görüntüleri
+
+<img alt="Screenshot1" width="250px" height="300" src="images/Screenshot1.png" />
+
 
   
 ## Değişkenler
