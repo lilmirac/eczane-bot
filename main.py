@@ -43,15 +43,16 @@ def get_user_location(latitude, longitude):
     district = normalize_text(address.get('address', {}).get('town', ''))
     return city, district
 
-def find_nearest_districts(city, district, latitude, longitude, num_districts=2, max_distance=25):
+def find_nearest_districts(city, current_district, latitude, longitude, num_districts=2, max_distance=25):
     district_data = json.load(open(districtsFile))
     distances = []
-    for district in district_data[city]:
-        district_lat, district_lon = district['lat'], district['lon']
+    for district_info in district_data[city]:
+        district_name = district_info['district']
+        district_lat, district_lon = district_info['lat'], district_info['lon']
         distance = calculate_distance(latitude, longitude, district_lat, district_lon)
         if distance <= max_distance:
-            if not district['district'] == district:
-                distances.append((district['district'], distance))
+            if district_name != current_district:
+                distances.append((district_name, distance))
     sorted_districts = sorted(distances, key=lambda x: x[1])
     return [district for district, _ in sorted_districts[:num_districts]]
 
@@ -116,7 +117,7 @@ def location_handler(message):
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     bot.reply_to(message, "Merhaba! Konumunuzu göndererek size en yakın nöbetçi eczaneleri öğrenebilirsiniz.")
-    
+
 
 if __name__ == '__main__':
     bot.polling()
