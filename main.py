@@ -40,16 +40,18 @@ def calculate_distance(lat1, lon1, lat2, lon2):
 def get_user_location(latitude, longitude):
     address = requests.get(f"https://nominatim.openstreetmap.org/search?q={latitude}%2C+{longitude}&format=jsonv2&addressdetails=1", headers = {"User-Agent": random.choice(user_agents)}).json()[0]
     city = normalize_text(address.get('address', {}).get('province', ''))
-    return city
+    district = normalize_text(address.get('address', {}).get('town', ''))
+    return city, district
 
-def find_nearest_districts(city, latitude, longitude, num_districts=3, max_distance=30):
+def find_nearest_districts(city, district, latitude, longitude, num_districts=2, max_distance=25):
     district_data = json.load(open(districtsFile))
     distances = []
     for district in district_data[city]:
         district_lat, district_lon = district['lat'], district['lon']
         distance = calculate_distance(latitude, longitude, district_lat, district_lon)
         if distance <= max_distance:
-            distances.append((district['district'], distance))
+            if not district['district'] == district:
+                distances.append((district['district'], distance))
     sorted_districts = sorted(distances, key=lambda x: x[1])
     return [district for district, _ in sorted_districts[:num_districts]]
 
@@ -80,20 +82,21 @@ def get_pharmacy_coords(city, pharmacies):
         time.sleep(random.uniform(0.2, 0.6))
     return [pharmacy for pharmacy in pharmacies if pharmacy['lat'] and pharmacy['lon']]
 
-def sort_pharmacies(pharmacies, latitude, longitude):
+def sort_pharmacies(pharmacies, latitude, longitude, num_pharmacies=4):
     for pharmacy in pharmacies:
         pharmacy['distance'] = calculate_distance(latitude, longitude, pharmacy['lat'], pharmacy['lon'])
     pharmacies.sort(key=lambda x: x['distance'])
-    return pharmacies[:4]
+    return pharmacies[:num_pharmacies]
 
 @bot.message_handler(content_types=['location'])
 def location_handler(message):
     startTime = time.time()
     latitude, longitude = message.location.latitude, message.location.longitude
-    city = get_user_location(latitude, longitude)
+    city, district = get_user_location(latitude, longitude)
     print(f"Received location from {message.chat.id} in {city.upper()} ({latitude}, {longitude})")
     bot.reply_to(message, f"{city.upper()} şehrinde size en yakın nöbetçi eczaneler bulunuyor...")
-    near_districts = find_nearest_districts(city, latitude, longitude)
+    near_districts = find_nearest_districts(city, district, latitude, longitude)
+    near_districts.append(district)
     print(f"Districts near the location: {near_districts}")
     pharmacies = list_pharmacies(city, near_districts)
     pharmacies_with_coords = get_pharmacy_coords(city, pharmacies)
@@ -113,5 +116,7 @@ def location_handler(message):
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     bot.reply_to(message, "Merhaba! Konumunuzu göndererek size en yakın nöbetçi eczaneleri öğrenebilirsiniz.")
+    
 
-bot.polling()
+if __name__ == '__main__':
+    bot.polling()
