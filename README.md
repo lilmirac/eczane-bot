@@ -1,5 +1,5 @@
 
-# EczaneBot 
+# eczane-bot
 ![](https://img.shields.io/badge/Python-Telegram-blue) 
 
 Konumunuza en yakın nöbetçi eczanelerin bilgilerini öğrenmek için hazırlanmış açık kaynak Telegram bot projesi.
@@ -46,13 +46,13 @@ Proje dizinine gidin
 Projeyi docker ile buildleyin
 
 ```bash
-  docker build -t eczaneBot .
+  docker build -t eczane-bot .
 ```
 
 Projeyi çalıştırın
 
 ```bash
-  docker run eczaneBot
+  docker run eczane-bot
 ```
 
   
