@@ -9,7 +9,7 @@ Konumunuza en yakın nöbetçi eczanelerin bilgilerini öğrenmek için hazırla
 ## Nasıl Çalışıyor
 
 - Telegram üzerinden gönderilen konumun koordinatlarını çıkarıyor.
-- Hazırladığım [turkeyDistricts.json](https://github.com/lilmirac/eczaneBot/blob/main/turkeyDistricts.json) dosyasını kullanarak bulunduğunuz koordinatlara en yakın 3 ilçeyi buluyor.
+- Hazırladığım [turkeyDistricts.json](https://github.com/lilmirac/eczane-bot/blob/main/turkeyDistricts.json) dosyasını kullanarak bulunduğunuz koordinatlara en yakın 3 ilçeyi buluyor.
 - [eczaneler.gen.tr](https://www.eczaneler.gen.tr) üzerinden bu ilçeler için nöbetçi eczane araması yapıyor.
 - Bulunan nöbetçi eczanelerden konumunuza en yakın 4 eczanenin bilgilerini ve konumlarını size gönderiyor.
 
@@ -33,13 +33,13 @@ Bu projeyi çalıştırmak için aşağıdaki ortam değişkenini .env dosyanız
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/lilmirac/eczaneBot.git
+  git clone https://github.com/lilmirac/eczane-bot.git
 ```
 
 Proje dizinine gidin
 
 ```bash
-  cd eczaneBot
+  cd eczane-bot
 ```
 [Buradan](https://t.me/BotFather) oluşturduğunuz Telegram botunuzun tokenini .env dosyasına `TELEGRAM_BOT_TOKEN` değişkenini olarak ekleyin
 
@@ -63,6 +63,6 @@ Destek için contact@mirac.dev adresinden ulaşabilirsiniz.
   
 ## Lisans
 
-[MIT](https://github.com/lilmirac/eczaneBot/blob/main/LICENSE)
+[MIT](https://github.com/lilmirac/eczane-bot/blob/main/LICENSE)
 
   
