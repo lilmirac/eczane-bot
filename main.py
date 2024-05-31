@@ -120,4 +120,5 @@ def send_welcome(message):
 
 
 if __name__ == '__main__':
+    print("Script started.")
     bot.polling()
