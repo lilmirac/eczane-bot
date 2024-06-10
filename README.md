@@ -1,68 +1,59 @@
 
 # eczane-bot
-![](https://img.shields.io/badge/Python-Telegram-blue) 
 
-Konumunuza en yakın nöbetçi eczanelerin bilgilerini öğrenmek için hazırlanmış açık kaynak Telegram bot projesi.
-
-
-
-## Nasıl Çalışıyor
-
-- Telegram üzerinden gönderilen konumun koordinatlarını çıkarıyor.
-- Hazırladığım [turkeyDistricts.json](https://github.com/lilmirac/eczane-bot/blob/main/turkeyDistricts.json) dosyasını kullanarak bulunduğunuz koordinatlara en yakın 3 ilçeyi buluyor.
-- [eczaneler.gen.tr](https://www.eczaneler.gen.tr) üzerinden bu ilçeler için nöbetçi eczane araması yapıyor.
-- Bulunan nöbetçi eczanelerden konumunuza en yakın 4 eczanenin bilgilerini ve konumlarını size gönderiyor.
-
-
-## Ekran Görüntüleri
+Konumunuza en yakın nöbetçi eczanelerin bilgilerini veren Telegram botu
 
 <img alt="Screenshot1" width="250px" height="300" src="images/Screenshot1.png" />
 
+## Kullanılan Teknolojiler
 
+* ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Nasıl Çalışıyor
+
+- Telegram üzerinden gönderilen konumun koordinatlarını kullanarak hazırladığım [turkeyDistricts.json](https://github.com/lilmirac/eczane-bot/blob/main/turkeyDistricts.json) dosyasında bulunduğunuz konuma en yakın 3 ilçeyi buluyor.
+- [eczaneler.gen.tr](https://www.eczaneler.gen.tr) üzerinden bu ilçeler için nöbetçi eczane araması yapıyor.
+- Bulunan nöbetçi eczanelerden konumunuza en yakın 4 eczanenin bilgilerini ve konumlarını size gönderiyor.
+
+## Demo
+[Bu telegram bot linki](https://t.me/EczaneProBot) üzerinden hazırladığım demoyu test edebilirsiniz.
   
-## Değişkenler
-
-Bu projeyi çalıştırmak için aşağıdaki ortam değişkenini .env dosyanıza eklemeniz gerekecek.
-
-
-`TELEGRAM_BOT_TOKEN`
-
-  
-## Docker ile Local Kurulum
+## Kurulum
 
 Projeyi klonlayın
 
-```bash
+```sh
   git clone https://github.com/lilmirac/eczane-bot.git
 ```
 
 Proje dizinine gidin
 
-```bash
+```sh
   cd eczane-bot
 ```
 [Buradan](https://t.me/BotFather) oluşturduğunuz Telegram botunuzun tokenini .env dosyasına `TELEGRAM_BOT_TOKEN` değişkenini olarak ekleyin
 
 Projeyi docker ile buildleyin
 
-```bash
+```sh
   docker build -t eczane-bot .
 ```
 
 Projeyi çalıştırın
 
-```bash
+```sh
   docker run eczane-bot
 ```
 
   
 ## Destek
 
-Destek için contact@mirac.dev adresinden ulaşabilirsiniz.
+Miraç - [contact@mirac.dev](mailto:contact@mirac.dev?subject=[GitHub])
+
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mirac.dev)
 
   
 ## Lisans
 
-[MIT](https://github.com/lilmirac/eczane-bot/blob/main/LICENSE)
-
+Bu proje MIT kapsamında lisanslanmıştır. Daha fazla bilgi için [Lisans](https://github.com/lilmirac/eczane-bot/blob/main/LICENSE)'a bakınız.
   
