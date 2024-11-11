@@ -1,59 +1,37 @@
+# pharmacy-bot
 
-# eczane-bot
-
-Konumunuza en yakın nöbetçi eczanelerin bilgilerini veren Telegram botu
+An open-source Telegram bot that provides information about the nearest on-duty pharmacies to your location in Turkey
 
 <img alt="Screenshot1" width="250px" height="300" src="images/Screenshot1.png" />
 
-## Kullanılan Teknolojiler
+## Built with
 
-* ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## Nasıl Çalışıyor
+## How?
 
-- Telegram üzerinden gönderilen konumun koordinatlarını kullanarak hazırladığım [turkeyDistricts.json](https://github.com/lilmirac/eczane-bot/blob/main/turkeyDistricts.json) dosyasında bulunduğunuz konuma en yakın 3 ilçeyi buluyor.
-- [eczaneler.gen.tr](https://www.eczaneler.gen.tr) üzerinden bu ilçeler için nöbetçi eczane araması yapıyor.
-- Bulunan nöbetçi eczanelerden konumunuza en yakın 4 eczanenin bilgilerini ve konumlarını size gönderiyor.
+- Extracts latitude and longitude coordinates from telegram message.
+- Identifies the 3 nearest districts to the user's location using a [turkeyDistricts.json](https://github.com/lilmirac/eczane-bot/blob/main/turkeyDistricts.json) database which is prepared by me.
+- Queries [eczaneler.gen.tr](https://www.eczaneler.gen.tr) to retrieve on-duty pharmacy information for the identified districts.
+- Utilizes the Nominatim API to geocode pharmacy addresses into coordinates.
+- Calculates distances to determine the nearest pharmacies and returns relevant information to the user
 
-## Demo
-[Bu telegram bot linki](https://t.me/EczaneProBot) üzerinden hazırladığım demoyu test edebilirsiniz.
+## Try now
+You can test the bot in action at [t.me/NobetciEczaneAra_bot](https://t.me/NobetciEczaneAra_bot)
   
-## Kurulum
+## Variables
 
-Projeyi klonlayın
+*only if you want to run the bot locally*
 
-```sh
-  git clone https://github.com/lilmirac/eczane-bot.git
-```
+`TELEGRAM_BOT_TOKEN="Bot Token Received from https://t.me/BotFather"`
 
-Proje dizinine gidin
+## Help
 
-```sh
-  cd eczane-bot
-```
-[Buradan](https://t.me/BotFather) oluşturduğunuz Telegram botunuzun tokenini .env dosyasına `TELEGRAM_BOT_TOKEN` değişkenini olarak ekleyin
-
-Projeyi docker ile buildleyin
-
-```sh
-  docker build -t eczane-bot .
-```
-
-Projeyi çalıştırın
-
-```sh
-  docker run eczane-bot
-```
-
-  
-## Destek
-
-Miraç - [contact@mirac.dev](mailto:contact@mirac.dev?subject=[GitHub])
-
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mirac.dev?subject=[GitHub])
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mirac.dev)
 
   
-## Lisans
+## License
 
-Bu proje MIT kapsamında lisanslanmıştır. Daha fazla bilgi için [Lisans](https://github.com/lilmirac/eczane-bot/blob/main/LICENSE)'a bakınız.
+This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/lilmirac/eczane-bot/blob/main/LICENSE) file.
   
