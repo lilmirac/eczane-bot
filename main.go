@@ -370,7 +370,18 @@ func main() {
 	}
 
 	bot.Handle("/start", func(c tele.Context) error {
-		return c.Send("Merhaba! Ben size en yakın nöbetçi eczaneleri bulmak için buradayım. Konum göndererek çevrenizdeki eczaneleri öğrenebilirsiniz.")
+		return c.Send("Merhaba! Ben size en yakın nöbetçi eczaneleri bulmak için buradayım. Konum göndererek çevrenizdeki eczaneleri öğrenebilirsiniz. Bu bot [mirac.dev](https://mirac.dev) tarafından geliştirilmiştir.")
+	})
+
+	bot.Handle("/credit", func(c tele.Context) error {
+		message := `Bu bot [mirac.dev](https://mirac.dev) tarafından geliştirilmiştir.
+
+Kaynak kod: [GitHub](https://github.com/devmirac/pharmacy-bot)`
+		
+		return c.Send(message, &tele.SendOptions{
+			ParseMode:             tele.ModeMarkdown,
+			DisableWebPagePreview: true,
+		})
 	})
 
 	bot.Handle(tele.OnLocation, func(c tele.Context) error {
