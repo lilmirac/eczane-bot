@@ -33,5 +33,5 @@ You can test the bot in action at [t.me/NobetciEczaneAra_bot](https://t.me/Nobet
   
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/lilmirac/eczane-bot/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For more information, see the [LICENSE](https://github.com/devmirac/eczane-bot/blob/main/LICENSE) file.
   
